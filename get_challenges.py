@@ -1,13 +1,9 @@
-from concurrent.futures import process
-from fileinput import filename
-from typing import Dict, Tuple
+import os
+import unicodedata
+import re
 import requests
-from requests_html import HTMLSession
 from bs4 import BeautifulSoup
 from json import dumps, loads
-import unicodedata
-import os
-import re
 
 def clean_text(text: str) -> str:
     """This converts the unicode characters to normalized Unicode form (i.e., something ASCII can handle."""
@@ -259,7 +255,7 @@ def process_challenges():
             del c['contributions']
             num = c['videoNumber'].strip()
             title = f'{num}-{slugify(c["title"].lower())}'
-            folder = os.path.join(curr_dir, 'test', title)
+            folder = os.path.join(curr_dir, 'challenges', title)
             os.makedirs(folder,exist_ok=True)
             if len(contribs) > 0:
                 showcase = os.path.join(folder, 'showcase')

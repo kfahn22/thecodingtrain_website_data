@@ -134,27 +134,40 @@ def process_contributions(contributions: list) -> list:
 
 
 def get_challenge_data(url: str) -> dict:
+    # get the page source and turn parse it with BeautifulSoup
     result = requests.get(url)
     src = result.content
     soup = BeautifulSoup(src, 'lxml')
 
+    # get the "main" element - that's where the content is
     main = soup.find('main')
     
+    # get the title
     title = main.find('h2').text
     
+    # get the div where the YouTube video is
+    # get the div with a class of "subtitle" to get the challenge number
     video = main.find('div', {'class': 'video'})
     subtitle = video.find('div', {'class': 'subtitle'}).text
     challenge_num = subtitle.split('#')[1].strip()
     
+    # get the div with the actual video player
     player_and_topics = video.find('div', {'class': 'player-and-topics'})
     
+    # get the "player" div
     player = player_and_topics.find('div', {'class': 'player'})
+    # find the iframe with the YouTube video
     iframe = player.find('div', {'id': 'video-player'})
+    # grab the video id from the iframe element's attributes
     video_id = iframe['data-videoid']
     
+    # get the "topics" div and pull out the "p" element to get the video/challenge description
     topics = player_and_topics.find('div', {'class': 'topics'})
     topics_p = topics.find('p').text
 
+    # get the "code-actions" div and determine whether we're dealing with p5 or Processing
+    # TODO: need to make this a loop, actually, since there can be more than 1 p5 or Processing
+    # section - this can happen if more than 1 example is made in the video: see challenge 166 (ASCII Image)
     code_examples = []
     code_actions = main.find('div', {'class': 'code-actions'})
     p5js = code_actions.find('div', {'class': 'p5js'})
@@ -166,8 +179,11 @@ def get_challenge_data(url: str) -> dict:
         test = get_code_actions(processing)
         code_examples.extend(test)
 
+    # get the "links-and-books" div - this contains links to the Contributions, links discussed in video,
+    # videos discussed in video, and/or other challenges mentioned sections
     links_and_books = main.find('div', {'class': 'links-and-books'})
 
+    # grab out the "contributions" div and process them all into the contribs list
     contributions = links_and_books.find('div', {'class': 'contributions'})
     contribs = []
     if contributions is not None:
@@ -175,11 +191,14 @@ def get_challenge_data(url: str) -> dict:
         if len(list_items) > 0:
             contribs = process_contributions(list_items)
     
+    # get a list of all of the "link-list" divs (this is where all of the other data is)
     link_lists = links_and_books.find_all('div', {'class': 'link-list'})
     group_links = []
     if len(link_lists) > 0:
+        # loop over the lists and stuff their data into the group_links list
         for l in link_lists:
             h3 = l.find('h3').text
+            # make sure we're not doing anything with the Contributions since we handle those separately/differently
             if h3.lower() != 'community contributions':
                 link_type = ''
                 if h3.lower().startswith('links'):

@@ -1,0 +1,85 @@
+{
+    "title": "Image to Ascii",
+    "description": "Let\u2019s make ASCII art in p5.js together! In this video, I demonstrate a variety of techniques for translating the pixels of an image into ASCII characters and finish with rendering video as texts in a DOM element.",
+    "videoNumber": "166",
+    "videoId": "55iwMYv8tGI",
+    "date": "2022-02-12",
+    "languages": [],
+    "topics": [],
+    "canContribute": true,
+    "relatedChallenges": [],
+    "timestamps": [],
+    "codeExamples": [
+        {
+            "title": "ASCII video - p5 Web Editor",
+            "description": "",
+            "urls": {
+                "p5": "https://editor.p5js.org/codingtrain/sketches/KTVfEcpWx"
+            }
+        },
+        {
+            "title": "ASCII video - GitHub",
+            "description": "",
+            "urls": {
+                "other": "https://github.com/CodingTrain/website/tree/main/CodingChallenges/CC_166_Ascii_Image/ascii-video"
+            }
+        }
+    ],
+    "groupLinks": [
+        {
+            "title": "References",
+            "links": [
+                {
+                    "title": "ASCII play by ertdfgcvb",
+                    "url": "https://play.ertdfgcvb.xyz/",
+                    "description": ""
+                },
+                {
+                    "title": "HTML Entity",
+                    "url": "https://developer.mozilla.org/en-US/docs/Glossary/Entity",
+                    "description": ""
+                },
+                {
+                    "title": "HTML div",
+                    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div",
+                    "description": ""
+                },
+                {
+                    "title": "p5.js loadPixels()",
+                    "url": "https://p5js.org/reference/#/p5/loadPixels",
+                    "description": ""
+                },
+                {
+                    "title": "p5.js brightness()",
+                    "url": "https://p5js.org/reference/#/p5/brightness",
+                    "description": ""
+                },
+                {
+                    "title": "CodingTrainChooChoo on Twitch",
+                    "url": "https://www.twitch.tv/codingtrainchoochoo",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "title": "Videos",
+            "links": [
+                {
+                    "title": "The Pixel Array",
+                    "url": "https://youtu.be/nMUMZ5YRxHI",
+                    "description": ""
+                },
+                {
+                    "title": "Basics of CSS",
+                    "url": "/Tutorials/8-html-css-dom/8.7-css-basics",
+                    "description": ""
+                },
+                {
+                    "title": "p5.js Web Editor - Uploading Media Files",
+                    "url": "https://youtu.be/rO6M5hj0V-o",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

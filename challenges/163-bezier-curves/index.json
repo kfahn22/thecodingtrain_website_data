@@ -1,0 +1,85 @@
+{
+    "title": "B\u00e9zier Curves",
+    "description": "Have you ever wanted to know more about b\u00e9zier curves in p5.js? Thanks to a generous donation from Jason Oswald, I do a deep dive exploring the b\u00e9zier curve function and the math behind the algorithm?",
+    "videoNumber": "163",
+    "videoId": "enNfb6p3j_g",
+    "date": "2021-08-22",
+    "languages": [],
+    "topics": [],
+    "canContribute": true,
+    "relatedChallenges": [],
+    "timestamps": [],
+    "codeExamples": [
+        {
+            "title": "Basic - p5 Web Editor",
+            "description": "",
+            "urls": {
+                "p5": "https://editor.p5js.org/codingtrain/sketches/Z53a719cQ"
+            }
+        },
+        {
+            "title": "Basic - GitHub",
+            "description": "",
+            "urls": {
+                "other": "https://github.com/CodingTrain/website/tree/main/CodingChallenges/CC_163_Bezier/basic-bezier"
+            }
+        }
+    ],
+    "groupLinks": [
+        {
+            "title": "References",
+            "links": [
+                {
+                    "title": "#SupportP5 2020",
+                    "url": "https://donorbox.org/supportp52020",
+                    "description": ""
+                },
+                {
+                    "title": "Jason Oswald (GitHub)",
+                    "url": "https://github.com/gajoswald",
+                    "description": ""
+                },
+                {
+                    "title": "Processing Foundation",
+                    "url": "https://processingfoundation.org/",
+                    "description": ""
+                },
+                {
+                    "title": "bezier() - p5.js Reference",
+                    "url": "https://p5js.org/reference/#/p5/bezier",
+                    "description": ""
+                },
+                {
+                    "title": "B\u00e9zier curve (Wikipedia)",
+                    "url": "https://en.wikipedia.org/wiki/B%C3%A9zier_curve",
+                    "description": ""
+                },
+                {
+                    "title": "Custom shapes - Programming Design Systems by Rune Madsen",
+                    "url": "https://www.programmingdesignsystems.com/shape/custom-shapes/index.html#custom-shapes-pANLh0l",
+                    "description": ""
+                },
+                {
+                    "title": "lerp() - p5.js Reference",
+                    "url": "https://p5js.org/reference/#/p5/lerp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "title": "Videos",
+            "links": [
+                {
+                    "title": "Self Avoiding Walk - Coding Challenge 162",
+                    "url": "/CodingChallenges/162-self-avoiding-walk",
+                    "description": ""
+                },
+                {
+                    "title": "Time Table Cardioid - Coding Challenge 133",
+                    "url": "/CodingChallenges/133-times-tables-cardioid",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

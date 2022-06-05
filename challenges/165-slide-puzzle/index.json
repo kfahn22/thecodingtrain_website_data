@@ -1,0 +1,55 @@
+{
+    "title": "Slide Puzzle",
+    "description": "Let\u2019s make a slide puzzle in p5.js together! We\u2019ll be using images, nested loops, and arrays, and by the end of our journey, we\u2019ll have a fully playable game!",
+    "videoNumber": "165",
+    "videoId": "uQZLzhrzEs4",
+    "date": "2022-02-01",
+    "languages": [],
+    "topics": [],
+    "canContribute": true,
+    "relatedChallenges": [],
+    "timestamps": [],
+    "codeExamples": [
+        {
+            "title": "Slide Puzzle with Image - p5 Web Editor",
+            "description": "",
+            "urls": {
+                "p5": "https://editor.p5js.org/codingtrain/sketches/o_ljlLilZ"
+            }
+        },
+        {
+            "title": "Slide Puzzle with Image - GitHub",
+            "description": "",
+            "urls": {
+                "other": "https://github.com/CodingTrain/website/tree/main/CodingChallenges/CC_165_Slide_Puzzle/slide-puzzle-image"
+            }
+        }
+    ],
+    "groupLinks": [
+        {
+            "title": "References",
+            "links": [
+                {
+                    "title": "Fisher-Yates Shuffle",
+                    "url": "https://bost.ocks.org/mike/shuffle/",
+                    "description": ""
+                },
+                {
+                    "title": "p5.js copy() reference",
+                    "url": "https://p5js.org/reference/#/p5/copy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "title": "Videos",
+            "links": [
+                {
+                    "title": "Coding Challenge 164 Bending Time SlitScan",
+                    "url": "/CodingChallenges/164-time-slitscan",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

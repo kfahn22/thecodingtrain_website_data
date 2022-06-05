@@ -26,6 +26,8 @@ def slugify(value, allow_unicode=False):
     return re.sub(r'[-\s]+', '-', value).strip('-_')
 
 def get_yt_pub_date(yt_id: str) -> str:
+    # TODO: get thumbnail(s)?
+    # TODO: get timestamps?
     url = f'https://www.youtube.com/watch?v={yt_id}'
     result = requests.get(url)
     src = result.content

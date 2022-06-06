@@ -269,6 +269,7 @@ def scrape_challenges() -> None:
         data = get_challenge_data(url)
         video_data.append(data)
         print(url)
+        break
     
     with open('challenges.json', 'w') as f:
         f.write(dumps(video_data, indent=4, ensure_ascii=True))

@@ -47,12 +47,12 @@
                 "links": [
                     {
                         "title": "Coding Challenge 3: The Snake Game",
-                        "url": "/CodingChallenges/003-snake-game-p5",
+                        "url": "/challenge/003-snake-game-p5",
                         "description": ""
                     },
                     {
                         "title": "Coding Challenge 4: Purple Rain",
-                        "url": "/CodingChallenges/004-purplerain",
+                        "url": "/challenge/004-purplerain",
                         "description": ""
                     },
                     {
@@ -156,12 +156,12 @@
                     },
                     {
                         "title": "Mandelbrot Set with p5.js",
-                        "url": "/CodingChallenges/021-mandelbrot-p5",
+                        "url": "/challenge/021-mandelbrot-p5",
                         "description": ""
                     },
                     {
                         "title": "Spherical Geometry",
-                        "url": "/CodingChallenges/025-spheregeometry",
+                        "url": "/challenge/025-spheregeometry",
                         "description": ""
                     }
                 ]
@@ -567,7 +567,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge 164 Bending Time SlitScan",
-                        "url": "/CodingChallenges/164-time-slitscan",
+                        "url": "/challenge/164-time-slitscan",
                         "description": ""
                     }
                 ]
@@ -740,12 +740,12 @@
                 "links": [
                     {
                         "title": "Self Avoiding Walk - Coding Challenge 162",
-                        "url": "/CodingChallenges/162-self-avoiding-walk",
+                        "url": "/challenge/162-self-avoiding-walk",
                         "description": ""
                     },
                     {
                         "title": "Time Table Cardioid - Coding Challenge 133",
-                        "url": "/CodingChallenges/133-times-tables-cardioid",
+                        "url": "/challenge/133-times-tables-cardioid",
                         "description": ""
                     }
                 ]
@@ -933,12 +933,12 @@
                 "links": [
                     {
                         "title": "Random Walker - Coding Challenge 52",
-                        "url": "/CodingChallenges/052-random-walk",
+                        "url": "/challenge/052-random-walk",
                         "description": ""
                     },
                     {
                         "title": "Minesweeper - Coding Challenge 71",
-                        "url": "/CodingChallenges/071-minesweeper",
+                        "url": "/challenge/071-minesweeper",
                         "description": ""
                     },
                     {
@@ -948,17 +948,17 @@
                     },
                     {
                         "title": "Maze Generator - Coding Challenge 10",
-                        "url": "/CodingChallenges/010.1-maze-dfs-p5",
+                        "url": "/challenge/010.1-maze-dfs-p5",
                         "description": ""
                     },
                     {
                         "title": "Recursion - Coding Train 77",
-                        "url": "/CodingChallenges/077-recursion",
+                        "url": "/challenge/077-recursion",
                         "description": ""
                     },
                     {
                         "title": "A* Pathfinding Algorithm - Coding Challenge 51",
-                        "url": "/CodingChallenges/051.1-astar",
+                        "url": "/challenge/051.1-astar",
                         "description": ""
                     },
                     {
@@ -1167,12 +1167,12 @@
                 "links": [
                     {
                         "title": "Texturing Cloth Simulation - Coding Challenge #63",
-                        "url": "/CodingChallenges/063.1-unikitty-flag",
+                        "url": "/challenge/063.1-unikitty-flag",
                         "description": ""
                     },
                     {
                         "title": "Simple Particle System - Coding Challenge #78",
-                        "url": "/CodingChallenges/078-simple-particle-system",
+                        "url": "/challenge/078-simple-particle-system",
                         "description": ""
                     }
                 ]
@@ -1337,7 +1337,7 @@
                     },
                     {
                         "title": "Double Pendulum - Coding Challenge #93",
-                        "url": "/CodingChallenges/093-double-pendulum",
+                        "url": "/challenge/093-double-pendulum",
                         "description": ""
                     },
                     {
@@ -1532,7 +1532,7 @@
                     },
                     {
                         "title": "Quick, Draw! - Coding Challenge #122",
-                        "url": "/CodingChallenges/122.1-quick-draw",
+                        "url": "/challenge/122.1-quick-draw",
                         "description": ""
                     }
                 ]
@@ -1845,7 +1845,7 @@
                     },
                     {
                         "title": "Coding Challenge #127: Brownian Tree Snowflake",
-                        "url": "/CodingChallenges/127-snowflake-brownian",
+                        "url": "/challenge/127-snowflake-brownian",
                         "description": ""
                     },
                     {
@@ -1991,7 +1991,7 @@
                     },
                     {
                         "title": "Coding Challenge #149: Tic Tac Toe",
-                        "url": "/CodingChallenges/149-tic-tac-toe",
+                        "url": "/challenge/149-tic-tac-toe",
                         "description": ""
                     }
                 ]
@@ -2257,12 +2257,12 @@
                 "links": [
                     {
                         "title": "Challenge #128: Sketch-RNN Snowflakes",
-                        "url": "/CodingChallenges/128-sketchrnn-snowflakes",
+                        "url": "/challenge/128-sketchrnn-snowflakes",
                         "description": ""
                     },
                     {
                         "title": "Challenge #152: RDP Algorithm",
-                        "url": "/CodingChallenges/152-rdp-algorithm",
+                        "url": "/challenge/152-rdp-algorithm",
                         "description": ""
                     }
                 ]
@@ -2330,7 +2330,7 @@
                 "links": [
                     {
                         "title": "Challenge #128: Sketch-RNN Snowflakes",
-                        "url": "/CodingChallenges/128-sketchrnn-snowflakes",
+                        "url": "/challenge/128-sketchrnn-snowflakes",
                         "description": ""
                     },
                     {
@@ -2681,7 +2681,7 @@
                     },
                     {
                         "title": "Coding Challenge #154: Tic Tac Toe AI with Minimax Algorithm",
-                        "url": "/CodingChallenges/154-tic-tac-toe-minimax",
+                        "url": "/challenge/154-tic-tac-toe-minimax",
                         "description": ""
                     }
                 ]
@@ -3500,7 +3500,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge: 2D Ray Casting",
-                        "url": "https://youtu.be//CodingChallenges/145-2d-ray-casting",
+                        "url": "https://youtu.be//challenge/145-2d-ray-casting",
                         "description": ""
                     }
                 ]
@@ -3692,7 +3692,7 @@
                     },
                     {
                         "title": "Coding Challenge: Rendering Ray Casting",
-                        "url": "/CodingChallenges/146-rendering-ray-casting",
+                        "url": "/challenge/146-rendering-ray-casting",
                         "description": ""
                     }
                 ]
@@ -4157,7 +4157,7 @@
                     },
                     {
                         "title": "Bubble Sort Visualization",
-                        "url": "/CodingChallenges/114-bubble-sort",
+                        "url": "/challenge/114-bubble-sort",
                         "description": ""
                     },
                     {
@@ -4287,12 +4287,12 @@
                 "links": [
                     {
                         "title": "Rubik's Cube Part 1",
-                        "url": "/CodingChallenges/142.1-rubiks-cube",
+                        "url": "/challenge/142.1-rubiks-cube",
                         "description": ""
                     },
                     {
                         "title": "Rubik's Cube Part 2",
-                        "url": "/CodingChallenges/142.2-rubiks-cube",
+                        "url": "/challenge/142.2-rubiks-cube",
                         "description": ""
                     }
                 ]
@@ -4435,12 +4435,12 @@
                 "links": [
                     {
                         "title": "Rubik's Cube Part 1",
-                        "url": "/CodingChallenges/142.1-rubiks-cube",
+                        "url": "/challenge/142.1-rubiks-cube",
                         "description": ""
                     },
                     {
                         "title": "Rubik's Cube Part 3",
-                        "url": "/CodingChallenges/142.3-rubiks-cube",
+                        "url": "/challenge/142.3-rubiks-cube",
                         "description": ""
                     }
                 ]
@@ -4470,7 +4470,7 @@
                     },
                     {
                         "title": "3D Rendering with Rotation and Projection",
-                        "url": "/CodingChallenges/112-3d-rendering",
+                        "url": "/challenge/112-3d-rendering",
                         "description": ""
                     },
                     {
@@ -4625,12 +4625,12 @@
                 "links": [
                     {
                         "title": "Rubik's Cube Part 2",
-                        "url": "/CodingChallenges/142.2-rubiks-cube",
+                        "url": "/challenge/142.2-rubiks-cube",
                         "description": ""
                     },
                     {
                         "title": "Rubik's Cube Part 3",
-                        "url": "/CodingChallenges/142.3-rubiks-cube",
+                        "url": "/challenge/142.3-rubiks-cube",
                         "description": ""
                     }
                 ]
@@ -4818,12 +4818,12 @@
                 "links": [
                     {
                         "title": "Mandelbrot Set with p5.js",
-                        "url": "/CodingChallenges/021-mandelbrot-p5",
+                        "url": "/challenge/021-mandelbrot-p5",
                         "description": ""
                     },
                     {
                         "title": "Calculating Digits of Pi with Collisions",
-                        "url": "/CodingChallenges/139-pi-collisions",
+                        "url": "/challenge/139-pi-collisions",
                         "description": ""
                     },
                     {
@@ -4910,12 +4910,12 @@
                 "links": [
                     {
                         "title": "Calculating Digits of Pi with Collisions",
-                        "url": "/CodingChallenges/139-pi-collisions",
+                        "url": "/challenge/139-pi-collisions",
                         "description": ""
                     },
                     {
                         "title": "Mandelbrot Set with p5.js",
-                        "url": "/CodingChallenges/021-mandelbrot-p5",
+                        "url": "/challenge/021-mandelbrot-p5",
                         "description": ""
                     },
                     {
@@ -5314,7 +5314,7 @@
                     },
                     {
                         "title": "Polar Perlin Noise Loops",
-                        "url": "/CodingChallenges/136.1-polar-perlin-noise-loops",
+                        "url": "/challenge/136.1-polar-perlin-noise-loops",
                         "description": ""
                     }
                 ]
@@ -5372,7 +5372,7 @@
                 "links": [
                     {
                         "title": "Polar Perlin Noise Loops",
-                        "url": "/CodingChallenges/136.1-polar-perlin-noise-loops",
+                        "url": "/challenge/136.1-polar-perlin-noise-loops",
                         "description": ""
                     }
                 ]
@@ -5583,7 +5583,7 @@
                 "links": [
                     {
                         "title": "Perlin Noise GIF Loops",
-                        "url": "/CodingChallenges/136.2-perlin-noise-gif-loops",
+                        "url": "/challenge/136.2-perlin-noise-gif-loops",
                         "description": ""
                     }
                 ]
@@ -5608,22 +5608,22 @@
                 "links": [
                     {
                         "title": "Heart Curve",
-                        "url": "/CodingChallenges/134.1-heart-curve",
+                        "url": "/challenge/134.1-heart-curve",
                         "description": ""
                     },
                     {
                         "title": "GIF Loop",
-                        "url": "/CodingChallenges/135-gif-loop",
+                        "url": "/challenge/135-gif-loop",
                         "description": ""
                     },
                     {
                         "title": "Blobby!",
-                        "url": "/CodingChallenges/036-blobby",
+                        "url": "/challenge/036-blobby",
                         "description": ""
                     },
                     {
                         "title": "Fourier Transform",
-                        "url": "/CodingChallenges/130.1-fourier-transform-drawing",
+                        "url": "/challenge/130.1-fourier-transform-drawing",
                         "description": ""
                     },
                     {
@@ -5895,7 +5895,7 @@
                 "links": [
                     {
                         "title": "Heart Curve",
-                        "url": "/CodingChallenges/134.1-heart-curve",
+                        "url": "/challenge/134.1-heart-curve",
                         "description": ""
                     }
                 ]
@@ -6050,7 +6050,7 @@
                 "links": [
                     {
                         "title": "Heart Curve GIF Loop",
-                        "url": "/CodingChallenges/134.2-heart-curve-gif-loop",
+                        "url": "/challenge/134.2-heart-curve-gif-loop",
                         "description": ""
                     }
                 ]
@@ -6070,7 +6070,7 @@
                 "links": [
                     {
                         "title": "Times Tables Cardioid:",
-                        "url": "/CodingChallenges/133-times-tables-cardioid",
+                        "url": "/challenge/133-times-tables-cardioid",
                         "description": ""
                     },
                     {
@@ -6080,7 +6080,7 @@
                     },
                     {
                         "title": "Drawing with Fourier Transform and Epicycles",
-                        "url": "/CodingChallenges/130.1-fourier-transform-drawing",
+                        "url": "/challenge/130.1-fourier-transform-drawing",
                         "description": ""
                     }
                 ]
@@ -6235,7 +6235,7 @@
                     },
                     {
                         "title": "Mandelbrot Set",
-                        "url": "/CodingChallenges/021-mandelbrot-p5",
+                        "url": "/challenge/021-mandelbrot-p5",
                         "description": ""
                     },
                     {
@@ -6661,12 +6661,12 @@
                 "links": [
                     {
                         "title": "Drawing with Fourier Transform and Epicycles",
-                        "url": "/CodingChallenges/130.1-fourier-transform-drawing",
+                        "url": "/challenge/130.1-fourier-transform-drawing",
                         "description": ""
                     },
                     {
                         "title": "Fourier Transform User Drawing",
-                        "url": "/CodingChallenges/130.2-fourier-transform-drawing",
+                        "url": "/challenge/130.2-fourier-transform-drawing",
                         "description": ""
                     }
                 ]
@@ -6855,12 +6855,12 @@
                 "links": [
                     {
                         "title": "Drawing with Fourier Transform and Epicycles",
-                        "url": "/CodingChallenges/130.1-fourier-transform-drawing",
+                        "url": "/challenge/130.1-fourier-transform-drawing",
                         "description": ""
                     },
                     {
                         "title": "Fourier Transform Drawing with Complex Number Input",
-                        "url": "/CodingChallenges/130.3-fourier-transform-drawing",
+                        "url": "/challenge/130.3-fourier-transform-drawing",
                         "description": ""
                     }
                 ]
@@ -7051,12 +7051,12 @@
                 "links": [
                     {
                         "title": "Fourier Transform User Drawing",
-                        "url": "/CodingChallenges/130.2-fourier-transform-drawing",
+                        "url": "/challenge/130.2-fourier-transform-drawing",
                         "description": ""
                     },
                     {
                         "title": "Fourier Transform Drawing with Complex Number Input",
-                        "url": "/CodingChallenges/130.3-fourier-transform-drawing",
+                        "url": "/challenge/130.3-fourier-transform-drawing",
                         "description": ""
                     }
                 ]
@@ -7091,7 +7091,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge #125: Fourier Series",
-                        "url": "/CodingChallenges/125-fourier-series",
+                        "url": "/challenge/125-fourier-series",
                         "description": ""
                     },
                     {
@@ -7390,7 +7390,7 @@
                     },
                     {
                         "title": "Coding Challenge #122: Quick, Draw!",
-                        "url": "/CodingChallenges/122.1-quick-draw",
+                        "url": "/challenge/122.1-quick-draw",
                         "description": ""
                     }
                 ]
@@ -7458,7 +7458,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge: Diffusion-Limited Aggregation",
-                        "url": "/CodingChallenges/034-dla",
+                        "url": "/challenge/034-dla",
                         "description": ""
                     }
                 ]
@@ -7714,7 +7714,7 @@
                     },
                     {
                         "title": "Fractal Spirograph",
-                        "url": "/CodingChallenges/061-fractal-spirograph",
+                        "url": "/challenge/061-fractal-spirograph",
                         "description": ""
                     }
                 ]
@@ -8229,7 +8229,7 @@
                 "links": [
                     {
                         "title": "Chaos Game Part 1",
-                        "url": "/CodingChallenges/123.1-chaos-game",
+                        "url": "/challenge/123.1-chaos-game",
                         "description": ""
                     }
                 ]
@@ -8375,7 +8375,7 @@
                 "links": [
                     {
                         "title": "Chaos Game Part 2",
-                        "url": "/CodingChallenges/123.2-chaos-game",
+                        "url": "/challenge/123.2-chaos-game",
                         "description": ""
                     }
                 ]
@@ -8529,7 +8529,7 @@
                 "links": [
                     {
                         "title": "Quick, Draw! Part 1",
-                        "url": "/CodingChallenges/122.1-quick-draw",
+                        "url": "/challenge/122.1-quick-draw",
                         "description": ""
                     }
                 ]
@@ -8585,7 +8585,7 @@
                 "links": [
                     {
                         "title": "Quick, Draw! Part 2",
-                        "url": "/CodingChallenges/122.2-quick-draw",
+                        "url": "/challenge/122.2-quick-draw",
                         "description": ""
                     }
                 ]
@@ -8668,7 +8668,7 @@
                 "links": [
                     {
                         "title": "Logo Interpreter Part 1",
-                        "url": "/CodingChallenges/121.1-logo-interpreter",
+                        "url": "/challenge/121.1-logo-interpreter",
                         "description": ""
                     }
                 ]
@@ -8810,7 +8810,7 @@
                 "links": [
                     {
                         "title": "Logo Interpreter Part 2",
-                        "url": "/CodingChallenges/121.2-logo-interpreter",
+                        "url": "/challenge/121.2-logo-interpreter",
                         "description": ""
                     }
                 ]
@@ -8972,7 +8972,7 @@
                 "links": [
                     {
                         "title": "Seven-Segment Display",
-                        "url": "/CodingChallenges/117-seven-segment",
+                        "url": "/challenge/117-seven-segment",
                         "description": ""
                     },
                     {
@@ -9059,7 +9059,7 @@
                 "links": [
                     {
                         "title": "Seven-Segment Display",
-                        "url": "/CodingChallenges/117-seven-segment",
+                        "url": "/challenge/117-seven-segment",
                         "description": ""
                     }
                 ]
@@ -9122,7 +9122,7 @@
                 "links": [
                     {
                         "title": "Mastodon Fractal Tree Bot - Part 1",
-                        "url": "/CodingChallenges/118.1-mastodon-fractal-tree",
+                        "url": "/challenge/118.1-mastodon-fractal-tree",
                         "description": ""
                     }
                 ]
@@ -9208,7 +9208,7 @@
                 "links": [
                     {
                         "title": "Mastodon Fractal Tree Bot - Part 2",
-                        "url": "/CodingChallenges/118.2-mastodon-fractal-tree",
+                        "url": "/challenge/118.2-mastodon-fractal-tree",
                         "description": ""
                     }
                 ]
@@ -9763,7 +9763,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge #3: Snake Game",
-                        "url": "/CodingChallenges/003-snake-game-p5",
+                        "url": "/challenge/003-snake-game-p5",
                         "description": ""
                     },
                     {
@@ -10249,7 +10249,7 @@
                 "links": [
                     {
                         "title": "4D Hypercube(Tesseract)",
-                        "url": "/CodingChallenges/113-hypercube",
+                        "url": "/challenge/113-hypercube",
                         "description": ""
                     },
                     {
@@ -10446,7 +10446,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge #110.1: Recam\u00e1n's Sequence - Part 1",
-                        "url": "/CodingChallenges/110.1-recaman-sequence",
+                        "url": "/challenge/110.1-recaman-sequence",
                         "description": ""
                     }
                 ]
@@ -10585,7 +10585,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge #110.2: Recam\u00e1n's Sequence - Part 2 (Audio)",
-                        "url": "/CodingChallenges/110.2-recaman-sequence",
+                        "url": "/challenge/110.2-recaman-sequence",
                         "description": ""
                     }
                 ]
@@ -11074,7 +11074,7 @@
                     },
                     {
                         "title": "Coding Challenge #92: XOR Problem",
-                        "url": "/CodingChallenges/092-xor",
+                        "url": "/challenge/092-xor",
                         "description": ""
                     },
                     {
@@ -11150,7 +11150,7 @@
                 "links": [
                     {
                         "title": "Linear Regression with TensorFlow.js",
-                        "url": "/CodingChallenges/104-linear-regression-tfjs",
+                        "url": "/challenge/104-linear-regression-tfjs",
                         "description": ""
                     },
                     {
@@ -11354,7 +11354,7 @@
                 "links": [
                     {
                         "title": "2D Water Ripple",
-                        "url": "/CodingChallenges/102-2d-water-ripple",
+                        "url": "/challenge/102-2d-water-ripple",
                         "description": ""
                     },
                     {
@@ -11459,7 +11459,7 @@
                 "links": [
                     {
                         "title": "Game of Life Challenge",
-                        "url": "/CodingChallenges/085-the-game-of-life",
+                        "url": "/challenge/085-the-game-of-life",
                         "description": ""
                     },
                     {
@@ -11542,7 +11542,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge #1: Starfield in Processing",
-                        "url": "/CodingChallenges/001-starfield",
+                        "url": "/challenge/001-starfield",
                         "description": ""
                     },
                     {
@@ -11612,22 +11612,22 @@
                 "links": [
                     {
                         "title": "Neuroevolution Flappy Bird - Part 1",
-                        "url": "/CodingChallenges/100.1-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.1-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 2",
-                        "url": "/CodingChallenges/100.2-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.2-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 3",
-                        "url": "/CodingChallenges/100.3-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.3-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 4",
-                        "url": "/CodingChallenges/100.4-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.4-neuroevolution-flappy-bird",
                         "description": ""
                     }
                 ]
@@ -11677,7 +11677,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge #31: Flappy Bird",
-                        "url": "/CodingChallenges/031-flappybird",
+                        "url": "/challenge/031-flappybird",
                         "description": ""
                     },
                     {
@@ -11862,22 +11862,22 @@
                 "links": [
                     {
                         "title": "Neuroevolution Flappy Bird - Part 1",
-                        "url": "/CodingChallenges/100.1-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.1-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 2",
-                        "url": "/CodingChallenges/100.2-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.2-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 3",
-                        "url": "/CodingChallenges/100.3-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.3-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 5",
-                        "url": "/CodingChallenges/100.5-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.5-neuroevolution-flappy-bird",
                         "description": ""
                     }
                 ]
@@ -11922,7 +11922,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge #31: Flappy Bird",
-                        "url": "/CodingChallenges/031-flappybird",
+                        "url": "/challenge/031-flappybird",
                         "description": ""
                     },
                     {
@@ -12107,22 +12107,22 @@
                 "links": [
                     {
                         "title": "Neuroevolution Flappy Bird - Part 1",
-                        "url": "/CodingChallenges/100.1-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.1-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 2",
-                        "url": "/CodingChallenges/100.2-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.2-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 4",
-                        "url": "/CodingChallenges/100.4-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.4-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 5",
-                        "url": "/CodingChallenges/100.5-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.5-neuroevolution-flappy-bird",
                         "description": ""
                     }
                 ]
@@ -12167,7 +12167,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge #31: Flappy Bird",
-                        "url": "/CodingChallenges/031-flappybird",
+                        "url": "/challenge/031-flappybird",
                         "description": ""
                     },
                     {
@@ -12352,22 +12352,22 @@
                 "links": [
                     {
                         "title": "Neuroevolution Flappy Bird - Part 1",
-                        "url": "/CodingChallenges/100.1-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.1-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 3",
-                        "url": "/CodingChallenges/100.3-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.3-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 4",
-                        "url": "/CodingChallenges/100.4-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.4-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 5",
-                        "url": "/CodingChallenges/100.5-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.5-neuroevolution-flappy-bird",
                         "description": ""
                     }
                 ]
@@ -12412,7 +12412,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge #31: Flappy Bird",
-                        "url": "/CodingChallenges/031-flappybird",
+                        "url": "/challenge/031-flappybird",
                         "description": ""
                     },
                     {
@@ -12427,7 +12427,7 @@
                     },
                     {
                         "title": "Traveling Salesperson",
-                        "url": "/CodingChallenges/035.1-tsp",
+                        "url": "/challenge/035.1-tsp",
                         "description": ""
                     }
                 ]
@@ -12602,22 +12602,22 @@
                 "links": [
                     {
                         "title": "Neuroevolution Flappy Bird - Part 2",
-                        "url": "/CodingChallenges/100.2-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.2-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 3",
-                        "url": "/CodingChallenges/100.3-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.3-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 4",
-                        "url": "/CodingChallenges/100.4-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.4-neuroevolution-flappy-bird",
                         "description": ""
                     },
                     {
                         "title": "Neuroevolution Flappy Bird - Part 5",
-                        "url": "/CodingChallenges/100.5-neuroevolution-flappy-bird",
+                        "url": "/challenge/100.5-neuroevolution-flappy-bird",
                         "description": ""
                     }
                 ]
@@ -12662,7 +12662,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge #31: Flappy Bird",
-                        "url": "/CodingChallenges/031-flappybird",
+                        "url": "/challenge/031-flappybird",
                         "description": ""
                     },
                     {
@@ -12952,12 +12952,12 @@
                 "links": [
                     {
                         "title": "Quadtree - Part 1",
-                        "url": "/CodingChallenges/098.1-quadtree",
+                        "url": "/challenge/098.1-quadtree",
                         "description": ""
                     },
                     {
                         "title": "Quadtree - Part 2",
-                        "url": "/CodingChallenges/098.2-quadtree",
+                        "url": "/challenge/098.2-quadtree",
                         "description": ""
                     }
                 ]
@@ -13111,12 +13111,12 @@
                 "links": [
                     {
                         "title": "Quadtree - Part 1",
-                        "url": "/CodingChallenges/098.1-quadtree",
+                        "url": "/challenge/098.1-quadtree",
                         "description": ""
                     },
                     {
                         "title": "Quadtree - Part 3",
-                        "url": "/CodingChallenges/098.3-quadtree",
+                        "url": "/challenge/098.3-quadtree",
                         "description": ""
                     }
                 ]
@@ -13146,7 +13146,7 @@
                     },
                     {
                         "title": "Frogger Coding Challenge",
-                        "url": "/CodingChallenges/072.1-frogger",
+                        "url": "/challenge/072.1-frogger",
                         "description": ""
                     }
                 ]
@@ -13285,12 +13285,12 @@
                 "links": [
                     {
                         "title": "Quadtree - Part 2",
-                        "url": "/CodingChallenges/098.2-quadtree",
+                        "url": "/challenge/098.2-quadtree",
                         "description": ""
                     },
                     {
                         "title": "Quadtree - Part 3",
-                        "url": "/CodingChallenges/098.3-quadtree",
+                        "url": "/challenge/098.3-quadtree",
                         "description": ""
                     }
                 ]
@@ -13320,7 +13320,7 @@
                     },
                     {
                         "title": "Binary Tree Coding Challenge",
-                        "url": "/CodingChallenges/065.1-binary-tree",
+                        "url": "/challenge/065.1-binary-tree",
                         "description": ""
                     }
                 ]
@@ -13445,7 +13445,7 @@
                 "links": [
                     {
                         "title": "The Book of Pi - Part 1",
-                        "url": "/CodingChallenges/097.1-book-of-pi",
+                        "url": "/challenge/097.1-book-of-pi",
                         "description": ""
                     }
                 ]
@@ -13538,7 +13538,7 @@
                 "links": [
                     {
                         "title": "The Book of Pi - Part 2",
-                        "url": "/CodingChallenges/097.2-book-of-pi",
+                        "url": "/challenge/097.2-book-of-pi",
                         "description": ""
                     }
                 ]
@@ -13862,17 +13862,17 @@
                 "links": [
                     {
                         "title": "2048 - Part 1",
-                        "url": "/CodingChallenges/094.1-2048",
+                        "url": "/challenge/094.1-2048",
                         "description": ""
                     },
                     {
                         "title": "2048 - Part 2",
-                        "url": "/CodingChallenges/094.2-2048",
+                        "url": "/challenge/094.2-2048",
                         "description": ""
                     },
                     {
                         "title": "2048 - Part 3",
-                        "url": "/CodingChallenges/094.3-2048",
+                        "url": "/challenge/094.3-2048",
                         "description": ""
                     }
                 ]
@@ -14063,17 +14063,17 @@
                 "links": [
                     {
                         "title": "2048 - Part 1",
-                        "url": "/CodingChallenges/094.1-2048",
+                        "url": "/challenge/094.1-2048",
                         "description": ""
                     },
                     {
                         "title": "2048 - Part 2",
-                        "url": "/CodingChallenges/094.2-2048",
+                        "url": "/challenge/094.2-2048",
                         "description": ""
                     },
                     {
                         "title": "2048 - Part 4",
-                        "url": "/CodingChallenges/094.4-2048",
+                        "url": "/challenge/094.4-2048",
                         "description": ""
                     }
                 ]
@@ -14254,17 +14254,17 @@
                 "links": [
                     {
                         "title": "2048 - Part 1",
-                        "url": "/CodingChallenges/094.1-2048",
+                        "url": "/challenge/094.1-2048",
                         "description": ""
                     },
                     {
                         "title": "2048 - Part 3",
-                        "url": "/CodingChallenges/094.3-2048",
+                        "url": "/challenge/094.3-2048",
                         "description": ""
                     },
                     {
                         "title": "2048 - Part 4",
-                        "url": "/CodingChallenges/094.4-2048",
+                        "url": "/challenge/094.4-2048",
                         "description": ""
                     }
                 ]
@@ -14445,17 +14445,17 @@
                 "links": [
                     {
                         "title": "2048 - Part 2",
-                        "url": "/CodingChallenges/094.2-2048",
+                        "url": "/challenge/094.2-2048",
                         "description": ""
                     },
                     {
                         "title": "2048 - Part 3",
-                        "url": "/CodingChallenges/094.3-2048",
+                        "url": "/challenge/094.3-2048",
                         "description": ""
                     },
                     {
                         "title": "2048 - Part 4",
-                        "url": "/CodingChallenges/094.4-2048",
+                        "url": "/challenge/094.4-2048",
                         "description": ""
                     }
                 ]
@@ -14909,12 +14909,12 @@
                 "links": [
                     {
                         "title": "Snakes & Ladders - Part 1",
-                        "url": "/CodingChallenges/091.1-snakes-and-ladders",
+                        "url": "/challenge/091.1-snakes-and-ladders",
                         "description": ""
                     },
                     {
                         "title": "Snakes & Ladders - Part 2",
-                        "url": "/CodingChallenges/091.2-snakes-and-ladders",
+                        "url": "/challenge/091.2-snakes-and-ladders",
                         "description": ""
                     }
                 ]
@@ -14991,12 +14991,12 @@
                 "links": [
                     {
                         "title": "Snakes & Ladders - Part 1",
-                        "url": "/CodingChallenges/091.1-snakes-and-ladders",
+                        "url": "/challenge/091.1-snakes-and-ladders",
                         "description": ""
                     },
                     {
                         "title": "Snakes & Ladders - Part 3",
-                        "url": "/CodingChallenges/091.3-snakes-and-ladders",
+                        "url": "/challenge/091.3-snakes-and-ladders",
                         "description": ""
                     }
                 ]
@@ -15073,12 +15073,12 @@
                 "links": [
                     {
                         "title": "Snakes & Ladders - Part 2",
-                        "url": "/CodingChallenges/091.2-snakes-and-ladders",
+                        "url": "/challenge/091.2-snakes-and-ladders",
                         "description": ""
                     },
                     {
                         "title": "Snakes & Ladders - Part 3",
-                        "url": "/CodingChallenges/091.3-snakes-and-ladders",
+                        "url": "/challenge/091.3-snakes-and-ladders",
                         "description": ""
                     }
                 ]
@@ -15318,7 +15318,7 @@
                     },
                     {
                         "title": "My Game of Life Coding Challenge",
-                        "url": "/CodingChallenges/085-the-game-of-life",
+                        "url": "/challenge/085-the-game-of-life",
                         "description": ""
                     }
                 ]
@@ -15526,7 +15526,7 @@
                 "links": [
                     {
                         "title": "My Coding Challenge on Spherical Geometry",
-                        "url": "/CodingChallenges/025-spheregeometry",
+                        "url": "/challenge/025-spheregeometry",
                         "description": ""
                     }
                 ]
@@ -16204,7 +16204,7 @@
                 "links": [
                     {
                         "title": "Circle Morphing - Part 1",
-                        "url": "/CodingChallenges/081.1-circle-morphing-part-1",
+                        "url": "/challenge/081.1-circle-morphing-part-1",
                         "description": ""
                     }
                 ]
@@ -16289,7 +16289,7 @@
                 "links": [
                     {
                         "title": "Circle Morphing - Part 2",
-                        "url": "/CodingChallenges/081.2-circle-morphing-part-2",
+                        "url": "/challenge/081.2-circle-morphing-part-2",
                         "description": ""
                     }
                 ]
@@ -16577,7 +16577,7 @@
                 "links": [
                     {
                         "title": "Fireworks Coding Challenge",
-                        "url": "/CodingChallenges/027-fireworks",
+                        "url": "/challenge/027-fireworks",
                         "description": ""
                     },
                     {
@@ -16772,7 +16772,7 @@
                 "links": [
                     {
                         "title": "My Video on Fractal Trees - Recursive",
-                        "url": "/CodingChallenges/014-fractaltree",
+                        "url": "/challenge/014-fractaltree",
                         "description": ""
                     }
                 ]
@@ -17888,7 +17888,7 @@
                 "links": [
                     {
                         "title": "Diastic Machine",
-                        "url": "/CodingChallenges/037-diastic",
+                        "url": "/challenge/037-diastic",
                         "description": ""
                     },
                     {
@@ -17946,17 +17946,17 @@
                 "links": [
                     {
                         "title": "Frogger - Part 1",
-                        "url": "/CodingChallenges/072.1-frogger",
+                        "url": "/challenge/072.1-frogger",
                         "description": ""
                     },
                     {
                         "title": "Frogger - Part 2",
-                        "url": "/CodingChallenges/072.2-frogger",
+                        "url": "/challenge/072.2-frogger",
                         "description": ""
                     },
                     {
                         "title": "Frogger - Part 3",
-                        "url": "/CodingChallenges/072.3-frogger",
+                        "url": "/challenge/072.3-frogger",
                         "description": ""
                     }
                 ]
@@ -18048,17 +18048,17 @@
                 "links": [
                     {
                         "title": "Frogger - Part 1",
-                        "url": "/CodingChallenges/072.1-frogger",
+                        "url": "/challenge/072.1-frogger",
                         "description": ""
                     },
                     {
                         "title": "Frogger - Part 2",
-                        "url": "/CodingChallenges/072.2-frogger",
+                        "url": "/challenge/072.2-frogger",
                         "description": ""
                     },
                     {
                         "title": "Frogger - Part 4",
-                        "url": "/CodingChallenges/072.4-frogger",
+                        "url": "/challenge/072.4-frogger",
                         "description": ""
                     }
                 ]
@@ -18145,17 +18145,17 @@
                 "links": [
                     {
                         "title": "Frogger - Part 1",
-                        "url": "/CodingChallenges/072.1-frogger",
+                        "url": "/challenge/072.1-frogger",
                         "description": ""
                     },
                     {
                         "title": "Frogger - Part 3",
-                        "url": "/CodingChallenges/072.3-frogger",
+                        "url": "/challenge/072.3-frogger",
                         "description": ""
                     },
                     {
                         "title": "Frogger - Part 4",
-                        "url": "/CodingChallenges/072.4-frogger",
+                        "url": "/challenge/072.4-frogger",
                         "description": ""
                     }
                 ]
@@ -18242,17 +18242,17 @@
                 "links": [
                     {
                         "title": "Frogger - Part 2",
-                        "url": "/CodingChallenges/072.2-frogger",
+                        "url": "/challenge/072.2-frogger",
                         "description": ""
                     },
                     {
                         "title": "Frogger - Part 3",
-                        "url": "/CodingChallenges/072.3-frogger",
+                        "url": "/challenge/072.3-frogger",
                         "description": ""
                     },
                     {
                         "title": "Frogger - Part 4",
-                        "url": "/CodingChallenges/072.4-frogger",
+                        "url": "/challenge/072.4-frogger",
                         "description": ""
                     }
                 ]
@@ -18562,12 +18562,12 @@
                 "links": [
                     {
                         "title": "Nearest Neighbors Recommendation Engine - Part 1",
-                        "url": "/CodingChallenges/070.1-similarity-score",
+                        "url": "/challenge/070.1-similarity-score",
                         "description": ""
                     },
                     {
                         "title": "Nearest Neighbors Recommendation Engine - Part 2",
-                        "url": "/CodingChallenges/070.2-nearest-neighbors",
+                        "url": "/challenge/070.2-nearest-neighbors",
                         "description": ""
                     }
                 ]
@@ -18628,12 +18628,12 @@
                 "links": [
                     {
                         "title": "Nearest Neighbors Recommendation Engine - Part 1",
-                        "url": "/CodingChallenges/070.1-similarity-score",
+                        "url": "/challenge/070.1-similarity-score",
                         "description": ""
                     },
                     {
                         "title": "Nearest Neighbors Recommendation Engine - Part 3",
-                        "url": "/CodingChallenges/070.3-movie-recommender",
+                        "url": "/challenge/070.3-movie-recommender",
                         "description": ""
                     }
                 ]
@@ -18694,12 +18694,12 @@
                 "links": [
                     {
                         "title": "Nearest Neighbors Recommendation Engine - Part 2",
-                        "url": "/CodingChallenges/070.2-nearest-neighbors",
+                        "url": "/challenge/070.2-nearest-neighbors",
                         "description": ""
                     },
                     {
                         "title": "Nearest Neighbors Recommendation Engine - Part 3",
-                        "url": "/CodingChallenges/070.3-movie-recommender",
+                        "url": "/challenge/070.3-movie-recommender",
                         "description": ""
                     }
                 ]
@@ -18777,22 +18777,22 @@
                 "links": [
                     {
                         "title": "Evolutionary Steering Behaviors - Part 1",
-                        "url": "/CodingChallenges/069.1-steering-evolution",
+                        "url": "/challenge/069.1-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 2",
-                        "url": "/CodingChallenges/069.2-steering-evolution",
+                        "url": "/challenge/069.2-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 3",
-                        "url": "/CodingChallenges/069.3-steering-evolution",
+                        "url": "/challenge/069.3-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 4",
-                        "url": "/CodingChallenges/069.4-steering-evolution",
+                        "url": "/challenge/069.4-steering-evolution",
                         "description": ""
                     }
                 ]
@@ -19030,22 +19030,22 @@
                 "links": [
                     {
                         "title": "Evolutionary Steering Behaviors - Part 1",
-                        "url": "/CodingChallenges/069.1-steering-evolution",
+                        "url": "/challenge/069.1-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 2",
-                        "url": "/CodingChallenges/069.2-steering-evolution",
+                        "url": "/challenge/069.2-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 3",
-                        "url": "/CodingChallenges/069.3-steering-evolution",
+                        "url": "/challenge/069.3-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 5",
-                        "url": "/CodingChallenges/069.5-steering-evolution",
+                        "url": "/challenge/069.5-steering-evolution",
                         "description": ""
                     }
                 ]
@@ -19283,22 +19283,22 @@
                 "links": [
                     {
                         "title": "Evolutionary Steering Behaviors - Part 1",
-                        "url": "/CodingChallenges/069.1-steering-evolution",
+                        "url": "/challenge/069.1-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 2",
-                        "url": "/CodingChallenges/069.2-steering-evolution",
+                        "url": "/challenge/069.2-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 4",
-                        "url": "/CodingChallenges/069.4-steering-evolution",
+                        "url": "/challenge/069.4-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 5",
-                        "url": "/CodingChallenges/069.5-steering-evolution",
+                        "url": "/challenge/069.5-steering-evolution",
                         "description": ""
                     }
                 ]
@@ -19536,22 +19536,22 @@
                 "links": [
                     {
                         "title": "Evolutionary Steering Behaviors - Part 1",
-                        "url": "/CodingChallenges/069.1-steering-evolution",
+                        "url": "/challenge/069.1-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 3",
-                        "url": "/CodingChallenges/069.3-steering-evolution",
+                        "url": "/challenge/069.3-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 4",
-                        "url": "/CodingChallenges/069.4-steering-evolution",
+                        "url": "/challenge/069.4-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 5",
-                        "url": "/CodingChallenges/069.5-steering-evolution",
+                        "url": "/challenge/069.5-steering-evolution",
                         "description": ""
                     }
                 ]
@@ -19794,22 +19794,22 @@
                 "links": [
                     {
                         "title": "Evolutionary Steering Behaviors - Part 2",
-                        "url": "/CodingChallenges/069.2-steering-evolution",
+                        "url": "/challenge/069.2-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 3",
-                        "url": "/CodingChallenges/069.3-steering-evolution",
+                        "url": "/challenge/069.3-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 4",
-                        "url": "/CodingChallenges/069.4-steering-evolution",
+                        "url": "/challenge/069.4-steering-evolution",
                         "description": ""
                     },
                     {
                         "title": "Evolutionary Steering Behaviors - Part 5",
-                        "url": "/CodingChallenges/069.5-steering-evolution",
+                        "url": "/challenge/069.5-steering-evolution",
                         "description": ""
                     }
                 ]
@@ -20040,7 +20040,7 @@
                 "links": [
                     {
                         "title": "Breadth-First Search Part 1",
-                        "url": "/CodingChallenges/068.1-bfs-kevin-bacon",
+                        "url": "/challenge/068.1-bfs-kevin-bacon",
                         "description": ""
                     }
                 ]
@@ -20158,7 +20158,7 @@
                 "links": [
                     {
                         "title": "Breadth-First Search Part 2",
-                        "url": "/CodingChallenges/068.2-bfs-kevin-bacon",
+                        "url": "/challenge/068.2-bfs-kevin-bacon",
                         "description": ""
                     }
                 ]
@@ -20565,7 +20565,7 @@
                 "links": [
                     {
                         "title": "Binary Search Tree",
-                        "url": "/CodingChallenges/065.1-binary-tree",
+                        "url": "/challenge/065.1-binary-tree",
                         "description": ""
                     }
                 ]
@@ -20710,7 +20710,7 @@
                 "links": [
                     {
                         "title": "Visualizing a Binary Tree",
-                        "url": "/CodingChallenges/065.2-binary-tree-viz",
+                        "url": "/challenge/065.2-binary-tree-viz",
                         "description": ""
                     }
                 ]
@@ -20855,17 +20855,17 @@
                 "links": [
                     {
                         "title": "Part 1 - Forward Kinematics",
-                        "url": "/CodingChallenges/064.1-forward-kinematics",
+                        "url": "/challenge/064.1-forward-kinematics",
                         "description": ""
                     },
                     {
                         "title": "Part 2 - Inverse Kinematics",
-                        "url": "/CodingChallenges/064.2-inverse-kinematics",
+                        "url": "/challenge/064.2-inverse-kinematics",
                         "description": ""
                     },
                     {
                         "title": "Part 3 - Inverse Kinematics - Fixed Point",
-                        "url": "/CodingChallenges/064.3-inverse-kinematics-fixed-point",
+                        "url": "/challenge/064.3-inverse-kinematics-fixed-point",
                         "description": ""
                     }
                 ]
@@ -20997,17 +20997,17 @@
                 "links": [
                     {
                         "title": "Part 1 - Forward Kinematics",
-                        "url": "/CodingChallenges/064.1-forward-kinematics",
+                        "url": "/challenge/064.1-forward-kinematics",
                         "description": ""
                     },
                     {
                         "title": "Part 2 - Inverse Kinematics",
-                        "url": "/CodingChallenges/064.2-inverse-kinematics",
+                        "url": "/challenge/064.2-inverse-kinematics",
                         "description": ""
                     },
                     {
                         "title": "Part 4 - Inverse Kinematics - Multiple",
-                        "url": "/CodingChallenges/064.4-inverse-kinematics-multiple",
+                        "url": "/challenge/064.4-inverse-kinematics-multiple",
                         "description": ""
                     }
                 ]
@@ -21139,17 +21139,17 @@
                 "links": [
                     {
                         "title": "Part 1 - Forward Kinematics",
-                        "url": "/CodingChallenges/064.1-forward-kinematics",
+                        "url": "/challenge/064.1-forward-kinematics",
                         "description": ""
                     },
                     {
                         "title": "Part 3 - Inverse Kinematics - Fixed Point",
-                        "url": "/CodingChallenges/064.3-inverse-kinematics-fixed-point",
+                        "url": "/challenge/064.3-inverse-kinematics-fixed-point",
                         "description": ""
                     },
                     {
                         "title": "Part 4 - Inverse Kinematics - Multiple",
-                        "url": "/CodingChallenges/064.4-inverse-kinematics-multiple",
+                        "url": "/challenge/064.4-inverse-kinematics-multiple",
                         "description": ""
                     }
                 ]
@@ -21281,17 +21281,17 @@
                 "links": [
                     {
                         "title": "Part 2 - Inverse Kinematics",
-                        "url": "/CodingChallenges/064.2-inverse-kinematics",
+                        "url": "/challenge/064.2-inverse-kinematics",
                         "description": ""
                     },
                     {
                         "title": "Part 3 - Inverse Kinematics - Fixed Point",
-                        "url": "/CodingChallenges/064.3-inverse-kinematics-fixed-point",
+                        "url": "/challenge/064.3-inverse-kinematics-fixed-point",
                         "description": ""
                     },
                     {
                         "title": "Part 4 - Inverse Kinematics - Multiple",
-                        "url": "/CodingChallenges/064.4-inverse-kinematics-multiple",
+                        "url": "/challenge/064.4-inverse-kinematics-multiple",
                         "description": ""
                     }
                 ]
@@ -21409,7 +21409,7 @@
                 "links": [
                     {
                         "title": "Texturing Cloth Simulation Part 1",
-                        "url": "/CodingChallenges/063.1-unikitty-flag",
+                        "url": "/challenge/063.1-unikitty-flag",
                         "description": ""
                     }
                 ]
@@ -21490,7 +21490,7 @@
                 "links": [
                     {
                         "title": "Texturing Cloth Simulation Part 2",
-                        "url": "/CodingChallenges/063.2-unikitty-flag",
+                        "url": "/challenge/063.2-unikitty-flag",
                         "description": ""
                     }
                 ]
@@ -21578,17 +21578,17 @@
                 "links": [
                     {
                         "title": "Plinko with Matter.js Part 1",
-                        "url": "/CodingChallenges/062.1-plinko",
+                        "url": "/challenge/062.1-plinko",
                         "description": ""
                     },
                     {
                         "title": "Plinko with Matter.js Part 2",
-                        "url": "/CodingChallenges/062.2-plinko",
+                        "url": "/challenge/062.2-plinko",
                         "description": ""
                     },
                     {
                         "title": "Plinko with Matter.js Part 3",
-                        "url": "/CodingChallenges/062.3-plinko",
+                        "url": "/challenge/062.3-plinko",
                         "description": ""
                     }
                 ]
@@ -21672,17 +21672,17 @@
                 "links": [
                     {
                         "title": "Plinko with Matter.js Part 1",
-                        "url": "/CodingChallenges/062.1-plinko",
+                        "url": "/challenge/062.1-plinko",
                         "description": ""
                     },
                     {
                         "title": "Plinko with Matter.js Part 2",
-                        "url": "/CodingChallenges/062.2-plinko",
+                        "url": "/challenge/062.2-plinko",
                         "description": ""
                     },
                     {
                         "title": "Plinko with Matter.js Part 4",
-                        "url": "/CodingChallenges/062.4-plinko",
+                        "url": "/challenge/062.4-plinko",
                         "description": ""
                     }
                 ]
@@ -21766,17 +21766,17 @@
                 "links": [
                     {
                         "title": "Plinko with Matter.js Part 1",
-                        "url": "/CodingChallenges/062.1-plinko",
+                        "url": "/challenge/062.1-plinko",
                         "description": ""
                     },
                     {
                         "title": "Plinko with Matter.js Part 3",
-                        "url": "/CodingChallenges/062.3-plinko",
+                        "url": "/challenge/062.3-plinko",
                         "description": ""
                     },
                     {
                         "title": "Plinko with Matter.js Part 4",
-                        "url": "/CodingChallenges/062.4-plinko",
+                        "url": "/challenge/062.4-plinko",
                         "description": ""
                     }
                 ]
@@ -21860,17 +21860,17 @@
                 "links": [
                     {
                         "title": "Plinko with Matter.js Part 2",
-                        "url": "/CodingChallenges/062.2-plinko",
+                        "url": "/challenge/062.2-plinko",
                         "description": ""
                     },
                     {
                         "title": "Plinko with Matter.js Part 3",
-                        "url": "/CodingChallenges/062.3-plinko",
+                        "url": "/challenge/062.3-plinko",
                         "description": ""
                     },
                     {
                         "title": "Plinko with Matter.js Part 4",
-                        "url": "/CodingChallenges/062.4-plinko",
+                        "url": "/challenge/062.4-plinko",
                         "description": ""
                     }
                 ]
@@ -21976,7 +21976,7 @@
                     },
                     {
                         "title": "My Coding Challenge on 2D Solar System",
-                        "url": "/CodingChallenges/007-solarsystemgenerator",
+                        "url": "/challenge/007-solarsystemgenerator",
                         "description": ""
                     }
                 ]
@@ -22361,7 +22361,7 @@
                 "links": [
                     {
                         "title": "Earthquake Data Visualization",
-                        "url": "/CodingChallenges/057-mapping-earthquake-data",
+                        "url": "/challenge/057-mapping-earthquake-data",
                         "description": ""
                     }
                 ]
@@ -22710,7 +22710,7 @@
                 "links": [
                     {
                         "title": "Islamic Star Patterns",
-                        "url": "/CodingChallenges/054.1-starpatterns",
+                        "url": "/challenge/054.1-starpatterns",
                         "description": ""
                     }
                 ]
@@ -22811,7 +22811,7 @@
                 "links": [
                     {
                         "title": "Star Patterns Update: Law of Sines",
-                        "url": "/CodingChallenges/054.2-starpatterns",
+                        "url": "/challenge/054.2-starpatterns",
                         "description": ""
                     }
                 ]
@@ -23091,12 +23091,12 @@
                 "links": [
                     {
                         "title": "A* Pathfinding Algorithm - Part 1",
-                        "url": "/CodingChallenges/051.1-astar",
+                        "url": "/challenge/051.1-astar",
                         "description": ""
                     },
                     {
                         "title": "A* Pathfinding Algorithm - Part 2",
-                        "url": "/CodingChallenges/051.2-astar",
+                        "url": "/challenge/051.2-astar",
                         "description": ""
                     }
                 ]
@@ -23121,7 +23121,7 @@
                 "links": [
                     {
                         "title": "My Maze Generation coding challenge",
-                        "url": "/CodingChallenges/010.1-maze-dfs-p5",
+                        "url": "/challenge/010.1-maze-dfs-p5",
                         "description": ""
                     }
                 ]
@@ -23350,12 +23350,12 @@
                 "links": [
                     {
                         "title": "A* Pathfinding Algorithm - Part 1",
-                        "url": "/CodingChallenges/051.1-astar",
+                        "url": "/challenge/051.1-astar",
                         "description": ""
                     },
                     {
                         "title": "A* Pathfinding Algorithm - Part 3",
-                        "url": "/CodingChallenges/051.3-astar",
+                        "url": "/challenge/051.3-astar",
                         "description": ""
                     }
                 ]
@@ -23380,7 +23380,7 @@
                 "links": [
                     {
                         "title": "My Maze Generation Coding Challenge",
-                        "url": "/CodingChallenges/010.1-maze-dfs-p5",
+                        "url": "/challenge/010.1-maze-dfs-p5",
                         "description": ""
                     }
                 ]
@@ -23609,12 +23609,12 @@
                 "links": [
                     {
                         "title": "A* Pathfinding Algorithm - Part 2",
-                        "url": "/CodingChallenges/051.2-astar",
+                        "url": "/challenge/051.2-astar",
                         "description": ""
                     },
                     {
                         "title": "A* Pathfinding Algorithm - Part 3",
-                        "url": "/CodingChallenges/051.3-astar",
+                        "url": "/challenge/051.3-astar",
                         "description": ""
                     }
                 ]
@@ -23639,7 +23639,7 @@
                 "links": [
                     {
                         "title": "My Maze Generation Coding Challenge",
-                        "url": "/CodingChallenges/010.1-maze-dfs-p5",
+                        "url": "/challenge/010.1-maze-dfs-p5",
                         "description": ""
                     }
                 ]
@@ -23868,7 +23868,7 @@
                 "links": [
                     {
                         "title": "Animated Circle Packing - Part 1",
-                        "url": "/CodingChallenges/050.1-circlepackinganimated",
+                        "url": "/challenge/050.1-circlepackinganimated",
                         "description": ""
                     }
                 ]
@@ -23968,7 +23968,7 @@
                 "links": [
                     {
                         "title": "Animated Circle Packing - Part 2",
-                        "url": "/CodingChallenges/050.2-circlepackingimage",
+                        "url": "/challenge/050.2-circlepackingimage",
                         "description": ""
                     }
                 ]
@@ -24142,7 +24142,7 @@
                 "links": [
                     {
                         "title": "My TF-IDF video",
-                        "url": "/CodingChallenges/040.3-tf-idf",
+                        "url": "/challenge/040.3-tf-idf",
                         "description": ""
                     }
                 ]
@@ -24257,7 +24257,7 @@
                 "links": [
                     {
                         "title": "Asteroids - Part 1",
-                        "url": "/CodingChallenges/046.1-asteroids-part-1",
+                        "url": "/challenge/046.1-asteroids-part-1",
                         "description": ""
                     }
                 ]
@@ -24415,7 +24415,7 @@
                 "links": [
                     {
                         "title": "Asteroids - Part 2",
-                        "url": "/CodingChallenges/046.2-asteroids-part-2",
+                        "url": "/challenge/046.2-asteroids-part-2",
                         "description": ""
                     }
                 ]
@@ -24630,7 +24630,7 @@
                 "links": [
                     {
                         "title": "AFINN-111 Sentiment Analysis - Part 1",
-                        "url": "/CodingChallenges/044.1-afinn111sentimentanalysis",
+                        "url": "/challenge/044.1-afinn111sentimentanalysis",
                         "description": ""
                     }
                 ]
@@ -24719,7 +24719,7 @@
                 "links": [
                     {
                         "title": "AFINN-111 Sentiment Analysis - Part 2",
-                        "url": "/CodingChallenges/044.2-afinn111sentimentanalysis",
+                        "url": "/challenge/044.2-afinn111sentimentanalysis",
                         "description": ""
                     }
                 ]
@@ -24845,7 +24845,7 @@
                 "links": [
                     {
                         "title": "Markov Chains - Part 1",
-                        "url": "/CodingChallenges/042.1-markov-chains",
+                        "url": "/challenge/042.1-markov-chains",
                         "description": ""
                     }
                 ]
@@ -24952,7 +24952,7 @@
                 "links": [
                     {
                         "title": "Markov Chains - Part 2",
-                        "url": "/CodingChallenges/042.2-markov-chains",
+                        "url": "/challenge/042.2-markov-chains",
                         "description": ""
                     }
                 ]
@@ -25074,7 +25074,7 @@
                 "links": [
                     {
                         "title": "Flappy Bird",
-                        "url": "/CodingChallenges/031-flappybird",
+                        "url": "/challenge/031-flappybird",
                         "description": ""
                     },
                     {
@@ -25120,12 +25120,12 @@
                 "links": [
                     {
                         "title": "Word Counter in JavaScript",
-                        "url": "/CodingChallenges/040.1-wordcounts-p5",
+                        "url": "/challenge/040.1-wordcounts-p5",
                         "description": ""
                     },
                     {
                         "title": "Word Counter in Processing",
-                        "url": "/CodingChallenges/040.2-wordcounts",
+                        "url": "/challenge/040.2-wordcounts",
                         "description": ""
                     }
                 ]
@@ -25198,12 +25198,12 @@
                 "links": [
                     {
                         "title": "Word Counter in JavaScript",
-                        "url": "/CodingChallenges/040.1-wordcounts-p5",
+                        "url": "/challenge/040.1-wordcounts-p5",
                         "description": ""
                     },
                     {
                         "title": "TF-IDF",
-                        "url": "/CodingChallenges/040.3-tf-idf",
+                        "url": "/challenge/040.3-tf-idf",
                         "description": ""
                     }
                 ]
@@ -25271,12 +25271,12 @@
                 "links": [
                     {
                         "title": "Word Counter in Processing",
-                        "url": "/CodingChallenges/040.2-wordcounts",
+                        "url": "/challenge/040.2-wordcounts",
                         "description": ""
                     },
                     {
                         "title": "TF-IDF",
-                        "url": "/CodingChallenges/040.3-tf-idf",
+                        "url": "/challenge/040.3-tf-idf",
                         "description": ""
                     }
                 ]
@@ -25563,27 +25563,27 @@
                 "links": [
                     {
                         "title": "Traveling Salesperson - Part 1",
-                        "url": "/CodingChallenges/035.1-tsp",
+                        "url": "/challenge/035.1-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 2",
-                        "url": "/CodingChallenges/035.2-tsp",
+                        "url": "/challenge/035.2-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 3",
-                        "url": "/CodingChallenges/035.3-tsp",
+                        "url": "/challenge/035.3-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 4",
-                        "url": "/CodingChallenges/035.4-tsp",
+                        "url": "/challenge/035.4-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 5",
-                        "url": "/CodingChallenges/035.5-tsp",
+                        "url": "/challenge/035.5-tsp",
                         "description": ""
                     }
                 ]
@@ -25780,27 +25780,27 @@
                 "links": [
                     {
                         "title": "Traveling Salesperson - Part 1",
-                        "url": "/CodingChallenges/035.1-tsp",
+                        "url": "/challenge/035.1-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 2",
-                        "url": "/CodingChallenges/035.2-tsp",
+                        "url": "/challenge/035.2-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 3",
-                        "url": "/CodingChallenges/035.3-tsp",
+                        "url": "/challenge/035.3-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 4",
-                        "url": "/CodingChallenges/035.4-tsp",
+                        "url": "/challenge/035.4-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 5",
-                        "url": "/CodingChallenges/035.5-tsp",
+                        "url": "/challenge/035.5-tsp",
                         "description": ""
                     }
                 ]
@@ -25987,27 +25987,27 @@
                 "links": [
                     {
                         "title": "Traveling Salesperson - Part 1",
-                        "url": "/CodingChallenges/035.1-tsp",
+                        "url": "/challenge/035.1-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 2",
-                        "url": "/CodingChallenges/035.2-tsp",
+                        "url": "/challenge/035.2-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 3",
-                        "url": "/CodingChallenges/035.3-tsp",
+                        "url": "/challenge/035.3-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 4",
-                        "url": "/CodingChallenges/035.4-tsp",
+                        "url": "/challenge/035.4-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 5",
-                        "url": "/CodingChallenges/035.5-tsp",
+                        "url": "/challenge/035.5-tsp",
                         "description": ""
                     }
                 ]
@@ -26184,27 +26184,27 @@
                 "links": [
                     {
                         "title": "Traveling Salesperson - Part 1",
-                        "url": "/CodingChallenges/035.1-tsp",
+                        "url": "/challenge/035.1-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 2",
-                        "url": "/CodingChallenges/035.2-tsp",
+                        "url": "/challenge/035.2-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 3",
-                        "url": "/CodingChallenges/035.3-tsp",
+                        "url": "/challenge/035.3-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 4",
-                        "url": "/CodingChallenges/035.4-tsp",
+                        "url": "/challenge/035.4-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 5",
-                        "url": "/CodingChallenges/035.5-tsp",
+                        "url": "/challenge/035.5-tsp",
                         "description": ""
                     }
                 ]
@@ -26381,27 +26381,27 @@
                 "links": [
                     {
                         "title": "Traveling Salesperson - Part 1",
-                        "url": "/CodingChallenges/035.1-tsp",
+                        "url": "/challenge/035.1-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 2",
-                        "url": "/CodingChallenges/035.2-tsp",
+                        "url": "/challenge/035.2-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 3",
-                        "url": "/CodingChallenges/035.3-tsp",
+                        "url": "/challenge/035.3-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 4",
-                        "url": "/CodingChallenges/035.4-tsp",
+                        "url": "/challenge/035.4-tsp",
                         "description": ""
                     },
                     {
                         "title": "Traveling Salesperson - Part 5",
-                        "url": "/CodingChallenges/035.5-tsp",
+                        "url": "/challenge/035.5-tsp",
                         "description": ""
                     }
                 ]
@@ -26718,7 +26718,7 @@
                 "links": [
                     {
                         "title": "Agar.io - Part 1 (Basic Game Mechanics)",
-                        "url": "/CodingChallenges/032.1-agar",
+                        "url": "/challenge/032.1-agar",
                         "description": ""
                     }
                 ]
@@ -26805,7 +26805,7 @@
                 "links": [
                     {
                         "title": "Agar.io - Part 2 (Networking with Socket.IO and Node.js)",
-                        "url": "/CodingChallenges/032.2-agario-sockets",
+                        "url": "/challenge/032.2-agario-sockets",
                         "description": ""
                     }
                 ]
@@ -27549,7 +27549,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge: Spherical Geometry",
-                        "url": "/CodingChallenges/025-spheregeometry",
+                        "url": "/challenge/025-spheregeometry",
                         "description": ""
                     }
                 ]
@@ -27690,7 +27690,7 @@
                 "links": [
                     {
                         "title": "Processing code",
-                        "url": "https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_024_PerlinNoiseFlowField_Processing",
+                        "url": "https://github.com/CodingTrain/website/tree/master/challenge/CC_024_PerlinNoiseFlowField_Processing",
                         "description": ""
                     },
                     {
@@ -27925,7 +27925,7 @@
                 "links": [
                     {
                         "title": "Coding Challenge: Mandelbrot Set",
-                        "url": "/CodingChallenges/021-mandelbrot-p5",
+                        "url": "/challenge/021-mandelbrot-p5",
                         "description": ""
                     }
                 ]
@@ -29115,17 +29115,17 @@
                 "links": [
                     {
                         "title": "Maze Generator with p5.js - Part 1",
-                        "url": "/CodingChallenges/010.1-maze-dfs-p5",
+                        "url": "/challenge/010.1-maze-dfs-p5",
                         "description": ""
                     },
                     {
                         "title": "Maze Generator with p5.js - Part 2",
-                        "url": "/CodingChallenges/010.2-maze-dfs-p5",
+                        "url": "/challenge/010.2-maze-dfs-p5",
                         "description": ""
                     },
                     {
                         "title": "Maze Generator with p5.js - Part 3",
-                        "url": "/CodingChallenges/010.3-maze-dfs-p5",
+                        "url": "/challenge/010.3-maze-dfs-p5",
                         "description": ""
                     }
                 ]
@@ -29364,17 +29364,17 @@
                 "links": [
                     {
                         "title": "Maze Generator with p5.js - Part 1",
-                        "url": "/CodingChallenges/010.1-maze-dfs-p5",
+                        "url": "/challenge/010.1-maze-dfs-p5",
                         "description": ""
                     },
                     {
                         "title": "Maze Generator with p5.js - Part 2",
-                        "url": "/CodingChallenges/010.2-maze-dfs-p5",
+                        "url": "/challenge/010.2-maze-dfs-p5",
                         "description": ""
                     },
                     {
                         "title": "Maze Generator with p5.js - Part 4",
-                        "url": "/CodingChallenges/010.4-maze-dfs-p5",
+                        "url": "/challenge/010.4-maze-dfs-p5",
                         "description": ""
                     }
                 ]
@@ -29613,17 +29613,17 @@
                 "links": [
                     {
                         "title": "Maze Generator with p5.js - Part 1",
-                        "url": "/CodingChallenges/010.1-maze-dfs-p5",
+                        "url": "/challenge/010.1-maze-dfs-p5",
                         "description": ""
                     },
                     {
                         "title": "Maze Generator with p5.js - Part 3",
-                        "url": "/CodingChallenges/010.3-maze-dfs-p5",
+                        "url": "/challenge/010.3-maze-dfs-p5",
                         "description": ""
                     },
                     {
                         "title": "Maze Generator with p5.js - Part 4",
-                        "url": "/CodingChallenges/010.4-maze-dfs-p5",
+                        "url": "/challenge/010.4-maze-dfs-p5",
                         "description": ""
                     }
                 ]
@@ -29862,17 +29862,17 @@
                 "links": [
                     {
                         "title": "Maze Generator with p5.js - Part 2",
-                        "url": "/CodingChallenges/010.2-maze-dfs-p5",
+                        "url": "/challenge/010.2-maze-dfs-p5",
                         "description": ""
                     },
                     {
                         "title": "Maze Generator with p5.js - Part 3",
-                        "url": "/CodingChallenges/010.3-maze-dfs-p5",
+                        "url": "/challenge/010.3-maze-dfs-p5",
                         "description": ""
                     },
                     {
                         "title": "Maze Generator with p5.js - Part 4",
-                        "url": "/CodingChallenges/010.4-maze-dfs-p5",
+                        "url": "/challenge/010.4-maze-dfs-p5",
                         "description": ""
                     }
                 ]
@@ -30111,12 +30111,12 @@
                 "links": [
                     {
                         "title": "Solar System in Processing - Part 1 (2D)",
-                        "url": "/CodingChallenges/007-solarsystemgenerator",
+                        "url": "/challenge/007-solarsystemgenerator",
                         "description": ""
                     },
                     {
                         "title": "Solar System in Processing - Part 2 (3D)",
-                        "url": "/CodingChallenges/008-solarsystemgenerator3d",
+                        "url": "/challenge/008-solarsystemgenerator3d",
                         "description": ""
                     }
                 ]
@@ -30207,12 +30207,12 @@
                 "links": [
                     {
                         "title": "Solar System in Processing - Part 1 (2D)",
-                        "url": "/CodingChallenges/007-solarsystemgenerator",
+                        "url": "/challenge/007-solarsystemgenerator",
                         "description": ""
                     },
                     {
                         "title": "Solar System in Processing - Part 3 (3D textures)",
-                        "url": "/CodingChallenges/009-solarsystemgenerator3d-texture",
+                        "url": "/challenge/009-solarsystemgenerator3d-texture",
                         "description": ""
                     }
                 ]
@@ -30289,12 +30289,12 @@
                 "links": [
                     {
                         "title": "Solar System in Processing - Part 2 (3D)",
-                        "url": "/CodingChallenges/008-solarsystemgenerator3d",
+                        "url": "/challenge/008-solarsystemgenerator3d",
                         "description": ""
                     },
                     {
                         "title": "Solar System in Processing - Part 3 (3D textures)",
-                        "url": "/CodingChallenges/009-solarsystemgenerator3d-texture",
+                        "url": "/challenge/009-solarsystemgenerator3d-texture",
                         "description": ""
                     }
                 ]

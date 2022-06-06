@@ -222,6 +222,8 @@ def get_challenge_data(url: str) -> dict:
                 for li in list_items:
                     a = li.find('a')
                     href = a['href']
+                    if "CodingChallenges" in href:
+                        href = href.replace("CodingChallenges", "challenge")
                     text = a.text
                     data['links'].append({
                         'title': text,

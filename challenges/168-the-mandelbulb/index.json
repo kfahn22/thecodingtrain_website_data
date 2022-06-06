@@ -69,12 +69,12 @@
                 },
                 {
                     "title": "Mandelbrot Set with p5.js",
-                    "url": "/CodingChallenges/021-mandelbrot-p5",
+                    "url": "/challenge/021-mandelbrot-p5",
                     "description": ""
                 },
                 {
                     "title": "Spherical Geometry",
-                    "url": "/CodingChallenges/025-spheregeometry",
+                    "url": "/challenge/025-spheregeometry",
                     "description": ""
                 }
             ]

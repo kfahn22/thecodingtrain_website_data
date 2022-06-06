@@ -2,6 +2,8 @@ import os
 import unicodedata
 import re
 import requests
+import subprocess
+from datetime import timedelta
 from bs4 import BeautifulSoup
 from json import dumps, loads
 
@@ -26,8 +28,6 @@ def slugify(value, allow_unicode=False):
     return re.sub(r'[-\s]+', '-', value).strip('-_')
 
 def get_yt_pub_date(yt_id: str) -> str:
-    # TODO: get thumbnail(s)?
-    # TODO: get timestamps?
     url = f'https://www.youtube.com/watch?v={yt_id}'
     result = requests.get(url)
     src = result.content
@@ -250,23 +250,79 @@ def get_challenge_data(url: str) -> dict:
 
     return data
 
-def scrape_challenges() -> None:
-    result = requests.get('https://thecodingtrain.com/CodingChallenges/')
-    src = result.content
-    soup = BeautifulSoup(src, 'lxml')
+def get_yt_dl_data(videoId: str, challenge_dir: str) -> None:
+    # youtube-dl https://youtu.be/LG8ZK-rRkXo --write-info-json --write-all-thumbnails --skip-download --id
+    subprocess.run(['youtube-dl', f'https://youtu.be/{videoId}', '--write-info-json', '--write-all-thumbnails', '--skip-download', '--id'], cwd=challenge_dir)
 
-    videos = soup.find_all('div', {'class': 'video-card'})
+def process_yt_dl_data(videoId: str, challenge_dir: str) -> dict:
+    data = {}
+    info_file = os.path.join(challenge_dir, f'{videoId}.info.json')
+    with open(info_file, 'r') as f:
+        data = loads(f.read())
+    if len(data) > 0:
+        # get largest jpeg thumbnail and delete all other jpegs or webp images
+        thumbs = data['thumbnails']
+        if len(thumbs) > 0:
+            jpegs = [t for t in thumbs if not t['url'].endswith('.webp')]
+            if len(jpegs) > 0:
+                jpeg_id = jpegs[-1]['id']
+                for filename in os.listdir(challenge_dir):
+                    f = os.path.join(challenge_dir, filename)
+                    if os.path.isfile(f):
+                        if os.path.splitext(f)[-1].lower() == '.jpg':
+                            if filename.endswith(f'_{jpeg_id}.jpg'):
+                                os.rename(f, os.path.join(challenge_dir, 'index.jpg'))
+                            else:
+                                os.remove(f)
+                        if os.path.splitext(f)[-1].lower() == '.webp':
+                            os.remove(f)
+        # get tags and chapters from the info file
+        tags = []
+        timestamps = []
+        chapters = []
+        if 'tags' in data:
+            tags = data['tags']
+        if 'chapters' in data:
+            chapters = data['chapters']
+        if len(chapters) > 0:
+            for c in chapters:
+                start_time = int(c['start_time'])
+                timestamps.append({
+                    'time': str(timedelta(seconds=start_time)),
+                    'title': c['title']
+                })
+        os.remove(info_file)
+        return {
+            'topics': tags,
+            'timestamps': timestamps
+        }
 
+def scrape_challenges(challenge_url_ending: str = None) -> None:
     video_data = []
-    for video in videos:
-        href = video.find('a')['href']
-        url = f'https://thecodingtrain.com{href}'
+    if challenge_url_ending is not None:
+        url = f'https://thecodingtrain.com{challenge_url_ending}'
         data = get_challenge_data(url)
         video_data.append(data)
         print(url)
-    
-    with open('challenges.json', 'w') as f:
-        f.write(dumps(video_data, indent=4, ensure_ascii=True))
+        
+        with open('challenges.json', 'w') as f:
+            f.write(dumps(video_data, indent=4, ensure_ascii=True))
+    else:
+        result = requests.get('https://thecodingtrain.com/CodingChallenges/')
+        src = result.content
+        soup = BeautifulSoup(src, 'lxml')
+
+        videos = soup.find_all('div', {'class': 'video-card'})
+
+        for video in videos:
+            href = video.find('a')['href']
+            url = f'https://thecodingtrain.com{href}'
+            data = get_challenge_data(url)
+            video_data.append(data)
+            print(url)
+        
+        with open('challenges.json', 'w') as f:
+            f.write(dumps(video_data, indent=4, ensure_ascii=True))
 
 def process_challenges():
     curr_dir = os.path.abspath(os.path.dirname(__file__))
@@ -280,6 +336,10 @@ def process_challenges():
             title = f'{num}-{slugify(c["title"].lower())}'
             folder = os.path.join(curr_dir, 'challenges', title)
             os.makedirs(folder,exist_ok=True)
+            get_yt_dl_data(c['videoId'], folder)
+            yt_data = process_yt_dl_data(c['videoId'], folder)
+            c['topics'] = yt_data['topics']
+            c['timestamps'] = yt_data['timestamps']
             if len(contribs) > 0:
                 showcase = os.path.join(folder, 'showcase')
                 os.makedirs(showcase, exist_ok=True)
@@ -291,5 +351,7 @@ def process_challenges():
                     f.write(dumps(c, ensure_ascii=True, indent=4))
 
 if __name__ == '__main__':
+    # challenge_url_ending = '/CodingChallenges/160-spring-forces.html'
+    # scrape_challenges(challenge_url_ending)
     scrape_challenges()
     process_challenges()

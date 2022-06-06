@@ -5,10 +5,70 @@
     "videoId": "vYgIKn7iDH8",
     "date": "2019-05-10",
     "languages": [],
-    "topics": [],
+    "topics": [
+        "daniel shiffman",
+        "coding",
+        "the coding train",
+        "coding challenge",
+        "code challenge",
+        "programming challenge",
+        "ray casting",
+        "game development",
+        "2d ray casting",
+        "ray marching",
+        "ray casting javascript",
+        "p5.js",
+        "ray casting p5.js",
+        "raycasting explained",
+        "ray casting algorithm",
+        "ray casting tutorial",
+        "2d ray casting tutorial",
+        "p5.js tutorial",
+        "ray casting 3d",
+        "wolfenstein 3d ray casting",
+        "raycasting rendering",
+        "raycasting 3d"
+    ],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Introduction"
+        },
+        {
+            "time": "0:02:21",
+            "title": "Coding Starts"
+        },
+        {
+            "time": "0:03:15",
+            "title": "Creating The Rendering Scene"
+        },
+        {
+            "time": "0:09:22",
+            "title": "Adjusting The Perspective"
+        },
+        {
+            "time": "0:11:02",
+            "title": "Adding Rotation"
+        },
+        {
+            "time": "0:15:06",
+            "title": "Fixing The View and Brightness"
+        },
+        {
+            "time": "0:20:55",
+            "title": "Changing The Field of View Dynamically"
+        },
+        {
+            "time": "0:22:44",
+            "title": "Small Fixes and Maintenance"
+        },
+        {
+            "time": "0:27:50",
+            "title": "Suggestions For Improvements"
+        }
+    ],
     "codeExamples": [
         {
             "title": "p5js - p5 Web Editor",

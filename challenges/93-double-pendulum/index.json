@@ -5,10 +5,67 @@
     "videoId": "uWzPe_S-RVE",
     "date": "2018-02-13",
     "languages": [],
-    "topics": [],
+    "topics": [
+        "live",
+        "programming",
+        "daniel shiffman",
+        "creative coding",
+        "coding challenge",
+        "tutorial",
+        "coding",
+        "challenges",
+        "coding train",
+        "the coding train",
+        "live stream",
+        "itp nyu",
+        "class",
+        "processing coding challenge",
+        "challenge",
+        "codingtrain",
+        "processing",
+        "code challenge",
+        "code",
+        "game",
+        "pendulum",
+        "pendulum simulation",
+        "double pendulum simulation",
+        "double pendulum",
+        "physics",
+        "nature of code",
+        "pendulum harmonic motion"
+    ],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Double Pendulum Simulation"
+        },
+        {
+            "time": "0:03:45",
+            "title": "Creating The Double Pendulum"
+        },
+        {
+            "time": "0:08:35",
+            "title": "Adding The Tracing of The Path"
+        },
+        {
+            "time": "0:12:51",
+            "title": "Implementing The Double Pendulum Formulas"
+        },
+        {
+            "time": "0:24:45",
+            "title": "Visualizing It"
+        },
+        {
+            "time": "0:28:21",
+            "title": "Adding Damping"
+        },
+        {
+            "time": "0:29:16",
+            "title": "Conclusions And Suggestions"
+        }
+    ],
     "codeExamples": [
         {
             "title": "p5js - p5 Web Editor",

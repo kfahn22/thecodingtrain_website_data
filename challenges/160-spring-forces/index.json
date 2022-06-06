@@ -8,7 +8,80 @@
     "topics": [],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Choo choo!! Springs Coding Challenge!"
+        },
+        {
+            "time": "0:00:40",
+            "title": "Explain! What is Hooke's Law?"
+        },
+        {
+            "time": "0:02:51",
+            "title": "Code! Let's make a 1 dimensional spring!"
+        },
+        {
+            "time": "0:05:13",
+            "title": "Explain! How can we bring in vectors?"
+        },
+        {
+            "time": "0:07:17",
+            "title": "Code! Let's adjust the code to use vectors."
+        },
+        {
+            "time": "0:11:57",
+            "title": "Code! Let's add gravity!"
+        },
+        {
+            "time": "0:13:03",
+            "title": "Code! How can we control the spring with our mouse?"
+        },
+        {
+            "time": "0:13:53",
+            "title": "Explain! But wait!! Particles!"
+        },
+        {
+            "time": "0:15:14",
+            "title": "Copy & Paste! A particle class."
+        },
+        {
+            "time": "0:16:41",
+            "title": "Code! Let's make bob and anchor particles."
+        },
+        {
+            "time": "0:18:01",
+            "title": "Code! We need a spring class."
+        },
+        {
+            "time": "0:21:32",
+            "title": "Debug! What is missing?"
+        },
+        {
+            "time": "0:23:16",
+            "title": "It works!"
+        },
+        {
+            "time": "0:24:16",
+            "title": "Code! But wait!! Particle system!"
+        },
+        {
+            "time": "0:25:28",
+            "title": "Code! Let's connect the particles with springs."
+        },
+        {
+            "time": "0:27:12",
+            "title": "Code! We can refine it a bit."
+        },
+        {
+            "time": "0:29:29",
+            "title": "Code! Playing with beginShape() and endShape()."
+        },
+        {
+            "time": "0:31:07",
+            "title": "Ideas! If you make a swishy robot share it with me!"
+        }
+    ],
     "codeExamples": [
         {
             "title": "Simple Spring - p5 Web Editor",

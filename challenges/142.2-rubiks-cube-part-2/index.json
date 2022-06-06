@@ -5,10 +5,73 @@
     "videoId": "EGmVulED_4M",
     "date": "2019-04-15",
     "languages": [],
-    "topics": [],
+    "topics": [
+        "daniel shiffman",
+        "coding",
+        "the coding train",
+        "coding challenge",
+        "creative coding",
+        "code challenge",
+        "programming challenge",
+        "rubiks cube",
+        "rubik's cube",
+        "rubiks cube algorithms",
+        "rubiks cube animation",
+        "rubiks cube processing",
+        "processing coding",
+        "processing coding challenge",
+        "rubiks cube patterns",
+        "rubiks cube simulation",
+        "rubiks cube 3x3x3",
+        "rubik cube",
+        "rubiks cube code",
+        "rubiks cube java",
+        "matrix rubik's",
+        "matrix math",
+        "matrix rotation",
+        "2d matrix math",
+        "rubik's cube matrix"
+    ],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Introduction"
+        },
+        {
+            "time": "0:01:30",
+            "title": "Continuing From Part 1"
+        },
+        {
+            "time": "0:02:57",
+            "title": "Representing Each Cubie In a Matrix"
+        },
+        {
+            "time": "0:09:43",
+            "title": "Finding Each Cubie"
+        },
+        {
+            "time": "0:11:01",
+            "title": "Applying Rotation"
+        },
+        {
+            "time": "0:25:30",
+            "title": "Coloring The Faces"
+        },
+        {
+            "time": "0:33:59",
+            "title": "Updating The Positions"
+        },
+        {
+            "time": "0:40:33",
+            "title": "Adding Directions For Each Turn"
+        },
+        {
+            "time": "0:44:03",
+            "title": "Testing If Everything Works"
+        }
+    ],
     "codeExamples": [
         {
             "title": "Processing - Processing",

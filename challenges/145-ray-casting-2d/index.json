@@ -5,10 +5,69 @@
     "videoId": "TOEi6T2mtHo",
     "date": "2019-05-08",
     "languages": [],
-    "topics": [],
+    "topics": [
+        "daniel shiffman",
+        "coding",
+        "the coding train",
+        "coding challenge",
+        "code challenge",
+        "programming challenge",
+        "ray casting",
+        "game development",
+        "2d ray casting",
+        "ray marching",
+        "ray casting javascript",
+        "p5.js",
+        "ray casting p5.js",
+        "line line intersection",
+        "raycasting explained",
+        "ray casting algorithm",
+        "ray casting tutorial",
+        "2d ray casting tutorial",
+        "p5.js tutorial",
+        "line line intersection algorithm",
+        "line line intersection 2d"
+    ],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Introduction"
+        },
+        {
+            "time": "0:03:34",
+            "title": "Coding Starts"
+        },
+        {
+            "time": "0:05:54",
+            "title": "Creating a Ray Class"
+        },
+        {
+            "time": "0:09:16",
+            "title": "Casting Rays And Finding Intersections"
+        },
+        {
+            "time": "0:19:56",
+            "title": "Casting Multiple Rays"
+        },
+        {
+            "time": "0:24:41",
+            "title": "Adding Collision Detection For Every Ray"
+        },
+        {
+            "time": "0:26:47",
+            "title": "Multiple Boundaries"
+        },
+        {
+            "time": "0:31:23",
+            "title": "Moving With Perlin Noise"
+        },
+        {
+            "time": "0:32:41",
+            "title": "Suggestions For Improvements"
+        }
+    ],
     "codeExamples": [
         {
             "title": "p5js - p5 Web Editor",

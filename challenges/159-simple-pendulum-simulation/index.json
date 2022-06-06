@@ -8,7 +8,80 @@
     "topics": [],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Choo choo!! 2021 Coding Challenge!"
+        },
+        {
+            "time": "0:00:43",
+            "title": "Code! Drawing a bob and an arm."
+        },
+        {
+            "time": "0:01:08",
+            "title": "Explain! How are we going to think about this?"
+        },
+        {
+            "time": "0:02:55",
+            "title": "Code! Add our main variables."
+        },
+        {
+            "time": "0:03:20",
+            "title": "Explain! How do we figure out where the bob is? Trigonometry is the answer!"
+        },
+        {
+            "time": "0:04:39",
+            "title": "Code! Use the polar coordinates formulas we just worked out."
+        },
+        {
+            "time": "0:06:30",
+            "title": "Code! Let's use angular motion!"
+        },
+        {
+            "time": "0:07:55",
+            "title": "Explain! What is the force of the pendulum? Trigonometry is the answer!"
+        },
+        {
+            "time": "0:10:46",
+            "title": "Code! Add the pendulum force."
+        },
+        {
+            "time": "0:12:04",
+            "title": "Whoops! Correction on why we multiply by -1."
+        },
+        {
+            "time": "0:13:34",
+            "title": "Code! Add -1 to the formula."
+        },
+        {
+            "time": "0:13:57",
+            "title": "Whoops! I figured out some things that I never really understood."
+        },
+        {
+            "time": "0:14:24",
+            "title": "Code! Correct the 3 step process."
+        },
+        {
+            "time": "0:15:32",
+            "title": "Something doesn't feel quite right."
+        },
+        {
+            "time": "0:16:59",
+            "title": "Explain! Angular acceleration relates to the arm length!"
+        },
+        {
+            "time": "0:18:58",
+            "title": "Code! Let's divide by length."
+        },
+        {
+            "time": "0:19:54",
+            "title": "Code! You could add some damping."
+        },
+        {
+            "time": "0:20:21",
+            "title": "Ideas! What could you do next?"
+        }
+    ],
     "codeExamples": [
         {
             "title": "p5js - p5 Web Editor",

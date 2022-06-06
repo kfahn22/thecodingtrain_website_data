@@ -8,7 +8,56 @@
     "topics": [],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Happy Pi Day!"
+        },
+        {
+            "time": "0:01:26",
+            "title": "Explain! What does co-prime mean?"
+        },
+        {
+            "time": "0:04:21",
+            "title": "Explain! Euclid's Algorithm"
+        },
+        {
+            "time": "0:08:40",
+            "title": "Example! Finding the greatest common divisor."
+        },
+        {
+            "time": "0:09:55",
+            "title": "Code! gcd() function with Euclid's Algorithm."
+        },
+        {
+            "time": "0:12:23",
+            "title": "Code! Let's load the random digits."
+        },
+        {
+            "time": "0:14:39",
+            "title": "Code! Let's use draw() for our loop."
+        },
+        {
+            "time": "0:16:13",
+            "title": "Code! Co-prime or Co-factor?"
+        },
+        {
+            "time": "0:17:44",
+            "title": "Explain! How we are going to estimate \u03c0."
+        },
+        {
+            "time": "0:18:50",
+            "title": "Code! Estimating \u03c0."
+        },
+        {
+            "time": "0:21:59",
+            "title": "Code! Trying with digits of \u03c0."
+        },
+        {
+            "time": "0:22:54",
+            "title": "Ideas! Thanks for watching!"
+        }
+    ],
     "codeExamples": [
         {
             "title": "Estimating \u03c0 from Random Numbers - p5 Web Editor",

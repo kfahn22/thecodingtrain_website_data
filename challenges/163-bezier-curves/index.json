@@ -8,7 +8,72 @@
     "topics": [],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Welcome! Thanks Jason!"
+        },
+        {
+            "time": "0:01:03",
+            "title": "Explain! What is the bezier() function?"
+        },
+        {
+            "time": "0:02:02",
+            "title": "Explain! The difference between linear, quadratic, and cubic bezier curves?"
+        },
+        {
+            "time": "0:02:34",
+            "title": "Explain! What is a control point?"
+        },
+        {
+            "time": "0:03:42",
+            "title": "Code! Let's try the bezier() function!"
+        },
+        {
+            "time": "0:05:02",
+            "title": "Code! Now we can explore bezierVertex()!"
+        },
+        {
+            "time": "0:07:13",
+            "title": "But wait! How can we go farther?"
+        },
+        {
+            "time": "0:07:39",
+            "title": "Explain! How is lerp() related to bezier()?"
+        },
+        {
+            "time": "0:09:09",
+            "title": "Code! How can we draw a straight line with vertex()?"
+        },
+        {
+            "time": "0:10:59",
+            "title": "Explain! Lerpception!!"
+        },
+        {
+            "time": "0:13:21",
+            "title": "Code! Quadratic bezier!"
+        },
+        {
+            "time": "0:14:47",
+            "title": "Code! What if we connect the points from the two lerps?"
+        },
+        {
+            "time": "0:16:02",
+            "title": "Code! Cubic bezier."
+        },
+        {
+            "time": "0:19:21",
+            "title": "Code! Let's bring back the rainbow!"
+        },
+        {
+            "time": "0:20:17",
+            "title": "Code! Moving points based on bouncing ball."
+        },
+        {
+            "time": "0:21:40",
+            "title": "Wrap up. What will you create?"
+        }
+    ],
     "codeExamples": [
         {
             "title": "Basic - p5 Web Editor",

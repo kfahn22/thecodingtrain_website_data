@@ -8,7 +8,72 @@
     "topics": [],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Introducing Today\u2019s Topic"
+        },
+        {
+            "time": "0:01:31",
+            "title": "The MandelBrot set explained"
+        },
+        {
+            "time": "0:04:31",
+            "title": "Triplex numbers"
+        },
+        {
+            "time": "0:05:11",
+            "title": "Voxels in Processing"
+        },
+        {
+            "time": "0:06:36",
+            "title": "Adding PeasyCam"
+        },
+        {
+            "time": "0:07:19",
+            "title": "Spherical coordinates"
+        },
+        {
+            "time": "0:09:18",
+            "title": "The power of triplex numbers"
+        },
+        {
+            "time": "0:10:51",
+            "title": "Implementing power formulas"
+        },
+        {
+            "time": "0:15:26",
+            "title": "Converting cartesian to Spherical"
+        },
+        {
+            "time": "0:19:26",
+            "title": "Setting up the MandelBulb"
+        },
+        {
+            "time": "0:22:00",
+            "title": "First MandelBulb"
+        },
+        {
+            "time": "0:22:23",
+            "title": "Optimising visualisation"
+        },
+        {
+            "time": "0:24:47",
+            "title": "Pointcloud MandelBulb"
+        },
+        {
+            "time": "0:25:47",
+            "title": "Variation ideas"
+        },
+        {
+            "time": "0:27:04",
+            "title": "The MandelBulb returns"
+        },
+        {
+            "time": "0:27:31",
+            "title": "See you next time!"
+        }
+    ],
     "codeExamples": [
         {
             "title": "Processing - Processing",

@@ -5,10 +5,71 @@
     "videoId": "EaZxUCWAjb0",
     "date": "2017-01-17",
     "languages": [],
-    "topics": [],
+    "topics": [
+        "JavaScript (Programming Language)",
+        "live",
+        "programming",
+        "daniel shiffman",
+        "creative coding",
+        "p5.js",
+        "coding challenge",
+        "p5.js tutorial",
+        "p5js",
+        "javascript (programming language)",
+        "tutorial",
+        "javascript",
+        "algorithms",
+        "coding",
+        "challenges",
+        "A*",
+        "A* algorithm",
+        "A* algorithm javascript",
+        "A* algorithm js",
+        "A* pathfinding javascript",
+        "A* search",
+        "A* pathfinding",
+        "Astar algorithm",
+        "A* search algorithm",
+        "coding train",
+        "the coding train",
+        "A* obstacles",
+        "pathfinding algorithm",
+        "A* diagonal",
+        "A* grid",
+        "A* 2D grid"
+    ],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Introduction"
+        },
+        {
+            "time": "0:00:40",
+            "title": "Adding Obstacles"
+        },
+        {
+            "time": "0:03:12",
+            "title": "Dealing With Dead Ends"
+        },
+        {
+            "time": "0:05:48",
+            "title": "Adding Diagonals"
+        },
+        {
+            "time": "0:09:30",
+            "title": "Ideas For Optimization"
+        },
+        {
+            "time": "0:11:40",
+            "title": "Fixing Bugs in The Code"
+        },
+        {
+            "time": "0:15:39",
+            "title": "Choo Choo We Did It!"
+        }
+    ],
     "codeExamples": [
         {
             "title": "p5js - p5 Web Editor",

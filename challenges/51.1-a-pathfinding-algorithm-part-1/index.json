@@ -5,10 +5,79 @@
     "videoId": "aKYlikFAV4k",
     "date": "2017-01-16",
     "languages": [],
-    "topics": [],
+    "topics": [
+        "JavaScript (Programming Language)",
+        "live",
+        "programming",
+        "daniel shiffman",
+        "creative coding",
+        "p5.js",
+        "coding challenge",
+        "p5.js tutorial",
+        "p5js",
+        "javascript (programming language)",
+        "tutorial",
+        "javascript",
+        "algorithms",
+        "coding",
+        "challenges",
+        "A*",
+        "A* algorithm",
+        "A* algorithm javascript",
+        "A* algorithm js",
+        "A* pathfinding javascript",
+        "A* search",
+        "A* pathfinding",
+        "Astar algorithm",
+        "A* search algorithm",
+        "coding train",
+        "the coding train",
+        "code challenge",
+        "Astar search",
+        "Astar pathfinding",
+        "A* coding challenge",
+        "pathfinding"
+    ],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Introduction"
+        },
+        {
+            "time": "0:01:26",
+            "title": "A* Pathfinder"
+        },
+        {
+            "time": "0:09:39",
+            "title": "Coding a Grid"
+        },
+        {
+            "time": "0:13:09",
+            "title": "A* Pathfinder Algorithm"
+        },
+        {
+            "time": "0:22:07",
+            "title": "Choosing Best Available Path"
+        },
+        {
+            "time": "0:27:05",
+            "title": "Finding New Nodes"
+        },
+        {
+            "time": "0:38:30",
+            "title": "Adding Heuristic"
+        },
+        {
+            "time": "0:41:50",
+            "title": "Tracing Back"
+        },
+        {
+            "time": "0:46:49",
+            "title": "Using Better Heuristics"
+        }
+    ],
     "codeExamples": [
         {
             "title": "p5js - p5 Web Editor",

@@ -5,10 +5,59 @@
     "videoId": "jwRT4PCT6RU",
     "date": "2017-01-18",
     "languages": [],
-    "topics": [],
+    "topics": [
+        "JavaScript (Programming Language)",
+        "live",
+        "programming",
+        "daniel shiffman",
+        "creative coding",
+        "p5.js",
+        "coding challenge",
+        "p5.js tutorial",
+        "p5js",
+        "javascript (programming language)",
+        "tutorial",
+        "javascript",
+        "algorithms",
+        "coding",
+        "challenges",
+        "A*",
+        "A* algorithm",
+        "A* algorithm javascript",
+        "A* algorithm js",
+        "A* pathfinding javascript",
+        "A* search",
+        "A* pathfinding",
+        "Astar algorithm",
+        "A* search algorithm",
+        "coding train",
+        "the coding train",
+        "A* visual",
+        "A* visual design",
+        "A* explained",
+        "A* course",
+        "A* algorithm visual"
+    ],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Introduction"
+        },
+        {
+            "time": "0:00:46",
+            "title": "Drawing The Path"
+        },
+        {
+            "time": "0:02:48",
+            "title": "Different Visualizations"
+        },
+        {
+            "time": "0:06:10",
+            "title": "Conclusions and New Ideas"
+        }
+    ],
     "codeExamples": [
         {
             "title": "p5js - p5 Web Editor",

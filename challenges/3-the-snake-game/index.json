@@ -5,10 +5,77 @@
     "videoId": "AaGK-fj-BAM",
     "date": "2016-04-20",
     "languages": [],
-    "topics": [],
+    "topics": [
+        "code challenge snake",
+        "coding challenge snake",
+        "p5.js snake",
+        "snake game p5",
+        "javascript codeing challenge",
+        "programming snake in javascript",
+        "processing snake game",
+        "thesnakegame",
+        "coding challenge",
+        "snake game javascript",
+        "game programming challenge",
+        "HTML",
+        "DOM",
+        "console",
+        "programming challenge",
+        "creative coding",
+        "how to program snake game",
+        "video game",
+        "OOP",
+        "live coding game",
+        "p5.js",
+        "snake",
+        "PVector",
+        "challenge",
+        "Object Oriented",
+        "Object Oriented Programming",
+        "DIY video game",
+        "javascript",
+        "snake game"
+    ],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Creating a Snake Object"
+        },
+        {
+            "time": "0:03:00",
+            "title": "Adding keyboard control"
+        },
+        {
+            "time": "0:05:20",
+            "title": "Grid and World Constraints"
+        },
+        {
+            "time": "0:08:00",
+            "title": "Adding Food!"
+        },
+        {
+            "time": "0:11:00",
+            "title": "Eating The Food!"
+        },
+        {
+            "time": "0:13:05",
+            "title": "Getting Longer When Eating"
+        },
+        {
+            "time": "0:17:40",
+            "title": "Fixing Mistakes"
+        },
+        {
+            "time": "0:21:48",
+            "title": "Game Over State"
+        },
+        {
+            "time": "0:25:55",
+            "title": "Coding Challenge Complete Choo Choo!"
+        }
+    ],
     "codeExamples": [
         {
             "title": "p5js - p5 Web Editor",

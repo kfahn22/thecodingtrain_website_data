@@ -8,7 +8,56 @@
     "topics": [],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Welcome! Choo choo!"
+        },
+        {
+            "time": "0:00:28",
+            "title": "Introducing Today\u2019s Topic"
+        },
+        {
+            "time": "0:01:39",
+            "title": "Pixel to ASCII"
+        },
+        {
+            "time": "0:04:52",
+            "title": "Pixelating an image"
+        },
+        {
+            "time": "0:07:03",
+            "title": "Pixel Array Explanation"
+        },
+        {
+            "time": "0:08:40",
+            "title": "Back to the code"
+        },
+        {
+            "time": "0:10:18",
+            "title": "Adding Text"
+        },
+        {
+            "time": "0:11:04",
+            "title": "Mapping Brightness to Characters"
+        },
+        {
+            "time": "0:13:26",
+            "title": "Switching from canvas to DOM"
+        },
+        {
+            "time": "0:18:10",
+            "title": "Real-time ASCII video"
+        },
+        {
+            "time": "0:20:10",
+            "title": "Some refinemens"
+        },
+        {
+            "time": "0:21:29",
+            "title": "See you next time!"
+        }
+    ],
     "codeExamples": [
         {
             "title": "ASCII video - p5 Web Editor",

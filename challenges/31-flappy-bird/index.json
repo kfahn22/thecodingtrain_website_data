@@ -5,10 +5,70 @@
     "videoId": "cXgA1d_E-jY",
     "date": "2016-08-10",
     "languages": [],
-    "topics": [],
+    "topics": [
+        "rainbow",
+        "live",
+        "flappy",
+        "bird",
+        "games",
+        "p5.js",
+        "daniel shiffman",
+        "p5js",
+        "creative coding",
+        "p5.js tutorial",
+        "nature of code",
+        "javascript",
+        "tutorial",
+        "coding challenge",
+        "the nature of code",
+        "p5 js",
+        "javascript (programming language)",
+        "flappy bird",
+        "coding",
+        "challenge",
+        "flappybird",
+        "flappy (video game)",
+        "flappybirds",
+        "flappy bird gameplay",
+        "flappy bird challenge",
+        "flappy bird javascript",
+        "flappy bird clone",
+        "html5 flappy bird",
+        "web flappy bird code",
+        "how to program flappy bird"
+    ],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Flappy Bird"
+        },
+        {
+            "time": "0:00:51",
+            "title": "Creating a Bird Object"
+        },
+        {
+            "time": "0:02:38",
+            "title": "Adding Simple Physics"
+        },
+        {
+            "time": "0:06:25",
+            "title": "Moving Up"
+        },
+        {
+            "time": "0:08:13",
+            "title": "Adding Obstacles"
+        },
+        {
+            "time": "0:16:02",
+            "title": "Collision Detection"
+        },
+        {
+            "time": "0:19:45",
+            "title": "Finishing The Game"
+        }
+    ],
     "codeExamples": [
         {
             "title": "p5js - p5 Web Editor",

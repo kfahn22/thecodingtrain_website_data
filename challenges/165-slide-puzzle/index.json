@@ -8,7 +8,80 @@
     "topics": [],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Welcome!"
+        },
+        {
+            "time": "0:02:24",
+            "title": "Explain! Using copy() to split the source image into tiles?"
+        },
+        {
+            "time": "0:03:24",
+            "title": "Code! The Tile class!"
+        },
+        {
+            "time": "0:04:40",
+            "title": "Explain! Copying tiles from the source image to the puzzle."
+        },
+        {
+            "time": "0:05:33",
+            "title": "Code! Setting up tile indices and a board array!"
+        },
+        {
+            "time": "0:06:54",
+            "title": "Explain! How should the board work?"
+        },
+        {
+            "time": "0:08:31",
+            "title": "Code! Something went wrong! Let's fix it!"
+        },
+        {
+            "time": "0:09:55",
+            "title": "It works! Now how to draw borders between the tiles?"
+        },
+        {
+            "time": "0:10:57",
+            "title": "Code! Shuffling the board."
+        },
+        {
+            "time": "0:14:00",
+            "title": "Code! The slide puzzle needs an empty tile!"
+        },
+        {
+            "time": "0:14:52",
+            "title": "Code! A function to move the tiles!"
+        },
+        {
+            "time": "0:16:59",
+            "title": "Code! Checking if tiles are neighbors?"
+        },
+        {
+            "time": "0:19:37",
+            "title": "Code! Random shuffling in draw()!"
+        },
+        {
+            "time": "0:20:12",
+            "title": "Code! Moving pieces with mousePressed()"
+        },
+        {
+            "time": "0:21:32",
+            "title": "Code! What should the sketch do when the puzzle is solved?"
+        },
+        {
+            "time": "0:23:06",
+            "title": "Code! Having fun with the tile grid!"
+        },
+        {
+            "time": "0:23:55",
+            "title": "Let's see if I can solve this..."
+        },
+        {
+            "time": "0:24:27",
+            "title": "Solved it! What will you create?"
+        }
+    ],
     "codeExamples": [
         {
             "title": "Slide Puzzle with Image - p5 Web Editor",

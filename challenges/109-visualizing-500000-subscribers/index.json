@@ -5,10 +5,87 @@
     "videoId": "Ae73YY_GAU8",
     "date": "2018-07-09",
     "languages": [],
-    "topics": [],
+    "topics": [
+        "programming",
+        "daniel shiffman",
+        "creative coding",
+        "coding challenge",
+        "tutorial",
+        "coding",
+        "challenges",
+        "coding train",
+        "the coding train",
+        "live stream",
+        "class",
+        "challenge",
+        "codingtrain",
+        "code challenge",
+        "mappa",
+        "mappa.js",
+        "map viz",
+        "map visualization",
+        "map visualization js",
+        "map visualization javascript",
+        "500k subscribers",
+        "500k subs",
+        "500000 subs",
+        "500000 subscribers",
+        "youtube analytics",
+        "youtube analytics api",
+        "javascript (programming language)",
+        "es6 arrow",
+        "es6 arrow functions",
+        "json tutorial",
+        "p5 js"
+    ],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Introduction"
+        },
+        {
+            "time": "0:02:39",
+            "title": "Mappa"
+        },
+        {
+            "time": "0:03:40",
+            "title": "CONST: Loading The Data"
+        },
+        {
+            "time": "0:09:23",
+            "title": "Data Parsing"
+        },
+        {
+            "time": "0:11:49",
+            "title": "Adding a Map With Mappa"
+        },
+        {
+            "time": "0:19:05",
+            "title": "Adding Overlays"
+        },
+        {
+            "time": "0:21:18",
+            "title": "Visualizing Each Country lat/lon Position"
+        },
+        {
+            "time": "0:28:13",
+            "title": "Changing The Diameter Sizes"
+        },
+        {
+            "time": "0:32:00",
+            "title": "Resizing According The Zoom Level"
+        },
+        {
+            "time": "0:46:25",
+            "title": "Visualizing Watch Time"
+        },
+        {
+            "time": "0:48:25",
+            "title": "Conclusions and Suggestions"
+        }
+    ],
     "codeExamples": [
         {
             "title": "p5js - p5 Web Editor",

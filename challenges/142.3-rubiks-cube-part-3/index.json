@@ -5,10 +5,53 @@
     "videoId": "8U2gsbNe1Uo",
     "date": "2019-04-18",
     "languages": [],
-    "topics": [],
+    "topics": [
+        "daniel shiffman",
+        "coding",
+        "the coding train",
+        "coding challenge",
+        "code challenge",
+        "programming challenge",
+        "rubiks cube",
+        "rubik's cube",
+        "rubiks cube algorithms",
+        "rubiks cube animation",
+        "rubiks cube processing",
+        "processing coding challenge",
+        "rubiks cube simulation",
+        "rubiks cube 3x3x3",
+        "rubik cube",
+        "rubiks cube java",
+        "matrix rubik's",
+        "matrix math",
+        "matrix rotation",
+        "rubik's cube matrix",
+        "rotation animation",
+        "rubik's cube code",
+        "rubik's cube animation",
+        "rubik's cube java",
+        "rubix cube"
+    ],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Introduction"
+        },
+        {
+            "time": "0:01:03",
+            "title": "Applying the rotation animation"
+        },
+        {
+            "time": "0:08:13",
+            "title": "Animating every move"
+        },
+        {
+            "time": "0:19:32",
+            "title": "Final results"
+        }
+    ],
     "codeExamples": [
         {
             "title": "Processing - Processing",

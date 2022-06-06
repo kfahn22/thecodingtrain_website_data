@@ -5,10 +5,48 @@
     "videoId": "9PGfL4t-uqE",
     "date": "2019-04-01",
     "languages": [],
-    "topics": [],
+    "topics": [
+        "daniel shiffman",
+        "coding",
+        "the coding train",
+        "coding challenge",
+        "creative coding",
+        "code challenge",
+        "programming challenge",
+        "rubiks cube",
+        "rubik's cube",
+        "rubiks cube algorithms",
+        "rubiks cube animation",
+        "rubiks cube processing",
+        "processing coding",
+        "processing coding challenge",
+        "rubiks cube patterns",
+        "rubiks cube simulation",
+        "rubiks cube 3x3x3",
+        "rubik cube",
+        "rubiks cube code",
+        "rubiks cube java"
+    ],
     "canContribute": true,
     "relatedChallenges": [],
-    "timestamps": [],
+    "timestamps": [
+        {
+            "time": "0:00:00",
+            "title": "Introduction"
+        },
+        {
+            "time": "0:01:50",
+            "title": "Code! Creating the cube"
+        },
+        {
+            "time": "0:07:56",
+            "title": "Adding a Camera With PeasyCam"
+        },
+        {
+            "time": "0:11:44",
+            "title": "Adding Colors"
+        }
+    ],
     "codeExamples": [
         {
             "title": "p5js - GitHub",
